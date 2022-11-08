@@ -1,0 +1,30 @@
+ID,Surname,Given Name,Sex,Birth Date,Birth Location,Death Date,Death Location
+I1,REDACTED,REDACTED,U,,,23-Jul-02,"Eastlake, Cayuga Co, OH"
+I4284,REDACTED,REDACTED,M,,,11-Aug-24,"Huntington, Cabell, West Virginia"
+I4222,REDACTED,REDACTED,F,,,10-Jun-68,"Midlothian, Cook, Illinois, USA"
+I4267,REDACTED,REDACTED,F,,,24-Jul-29,"Huntington, Cabell, West Virginia, USA"
+I4283,REDACTED,REDACTED,F,,,27-Aug-52,"Huntington, Cabell County, West Virginia, USA"
+I4219,REDACTED,REDACTED,M,6-May-24,"Williamson, Mingo, West Virginia",4-May-15,"Plymouth, Sheboygan, Wisconsin, USA"
+I4216,REDACTED,REDACTED,M,24 MAR 1891,"Inez, Martin, Kentucky, USA",6-Jan-60,"Williamson, Mingo, West Virginia, USA"
+I4314,REDACTED,REDACTED,F,1873,"Springfield, Sangamon, IL",,
+I4320,REDACTED,REDACTED,F,30 AUG 1867,"Salt Rock, Cabell, West Virginia (Birth Record)",16-Dec-50,"Huntington, Cabell, West Virginia (Death Cert.)"
+I4550,REDACTED,REDACTED,M,,,20-Dec-76,"Kenova, Wayne County, West Virginia, United States of America"
+I15,REDACTED,REDACTED,M,1-Sep-16,"Canton, Van Zandt County, Texas, United States of America",7-Jul-11,"Clovis, Fresno, California"
+I4268,REDACTED,REDACTED,M,02 MAR 1853,"Wayne, Wayne, West Virginia, USA",14-Feb-05,"Huntington, Cabell, West Virginia"
+I4317,REDACTED,REDACTED,M,17-Mar-05,"Huntington, Cabell, West Virginia (Birth Record)",13-Aug-05,"Huntington, Cabell, West Virginia (Death Record)"
+I4273,REDACTED,REDACTED,M,,,31-Dec-69,"Huntington, Cabell, West Virginia, USA"
+I4277,REDACTED,REDACTED,M,17 JUN 1882,"Stonewall, Wayne County, West Virginia, USA",15-Aug-67,"Huntington, Cabell County, West Virginia, United States of America"
+I4272,REDACTED,REDACTED,F,,,22-Feb-67,"Huntington, Cabell, West Virginia (Death Record)"
+I4269,REDACTED,REDACTED,F,06 JAN 1888,"Water Valley, Mississippi, USA",,
+I4276,REDACTED,REDACTED,M,,,25-Mar-50,"Huntington, Cabell, West Virginia (Death Cert.)"
+I4223,REDACTED,REDACTED,M,,,16-Dec-51,"Pasadena, Los Angeles, California, USA"
+I4315,REDACTED,REDACTED,M,,,12-Jun-98,"West Melbourne, Brevard, Florida, USA"
+I4275,REDACTED,REDACTED,M,,,10-Jan-64,"Huntington, Cabell County, West Virginia, United States of America"
+I4319,REDACTED,REDACTED,F,,,28-May-01,"Huntington, Cabell, West Virginia USA (Cemetery Records)"
+I4217,REDACTED,REDACTED,F,27-Jun-04,"Cattlesburg, Boyd County, Kentucky, USA",18-Jan-49,"Chicago, Cook Co., IL"
+I4318,REDACTED,REDACTED,F,24-Feb-12,"Huntington, Cabell, West Virginia",24-Dec-20,"Huntington, Cabell, West Virginia USA (Cemetery Records)"
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Lat,Lng,Name,Desc,Icon,Time Begin,,
+,,,Birth/Death,185,Date,,

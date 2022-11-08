@@ -1,0 +1,1387 @@
+0 HEAD
+1 SOUR FTM
+2 VERS Family Tree Maker (21.0.0.388)
+2 NAME Family Tree Maker for Windows
+2 CORP Ancestry.com
+3 ADDR 360 W 4800 N
+4 CONT Provo, UT 84604
+3 PHON (801) 705-7000
+1 DEST GED55
+1 DATE 17 FEB 2018
+1 CHAR ANSI
+1 FILE C:\Users\Colleen\Desktop\Chandler DNA\Gedcoms\February 17, 2018\James McClung and Jean Straharn Strain_2018-02-17.ged
+1 SUBM @SUBM@
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @SUBM@ SUBM
+0 @I1@ INDI
+1 NAME Doe /Chandler/ III
+1 SEX U
+1 BIRT
+2 DATE ABT 1935
+2 PLAC estim based on age at death
+1 DEAT
+2 DATE 23 JUL 2002
+2 PLAC Eastlake, Cayuga Co, OH
+1 OBJE @M1@
+1 FAMC @F2515@
+0 @I2@ INDI
+1 NAME new tether /2/
+1 SEX F
+1 FAMS @F2515@
+0 @I4112@ INDI
+1 NAME Ann Hasseltine  Judson /Cole/
+2 SOUR @S1@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 14 JAN 1853
+2 PLAC Texas, United States of America
+2 SOUR @S1@
+1 BURI
+2 PLAC Granbury, Hood County, Texas, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 28 FEB 1917
+2 PLAC Granbury, Hood County, Texas, United States of America
+2 SOUR @S1@
+1 BIRT
+2 DATE 14 JAN 1853
+2 PLAC , Franklin, Georgia, USA
+1 OBJE @M1160@
+1 OBJE @M1161@
+1 FAMS @F2512@
+0 @I11680@ INDI
+1 NAME Maria /Conklin/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1680
+1 SEX F
+1 BIRT
+2 DATE 1792
+2 PLAC Roxbury Twp, Morris Co., New Jersey
+1 DEAT
+2 DATE 1873
+2 PLAC Republic, Seneca Co., OH
+1 FAMS @F2661@
+0 @I9364@ INDI
+1 NAME Thelma Ardith /Day/
+2 SOUR @S1@
+2 SOUR @S227@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=116989954&pid=3
+5 CONC 405
+1 SEX F
+1 BIRT
+2 DATE 05 JUN 1923
+2 PLAC Carter County, Missouri, USA
+2 SOUR @S1@
+1 BURI
+2 PLAC Haviland, Kiowa County, Kansas, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 02 OCT 2013
+2 PLAC Pratt, Pratt County, Kansas, USA
+2 SOUR @S1@
+1 FAMS @F2507@
+0 @I10958@ INDI
+1 NAME Mary Melissa /Deuel/
+2 SOUR @S227@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=116989954&pid=3
+5 CONC 453
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 0958
+1 SEX F
+1 BIRT
+2 DATE 24 JUN 1876
+2 PLAC Adair Co., Iowa
+1 DEAT
+2 DATE 31 JUL 1943
+2 PLAC Kingston, Madison, Arkansas
+1 FAMS @F2510@
+0 @I4050@ INDI
+1 NAME Albert D /Gibson/
+2 SOUR @S135@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE ABT 1887
+2 PLAC Michigan
+1 NAME /temo/
+1 FAMS @F956@
+0 @I4049@ INDI
+1 NAME Doris Jane /Gibson/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 24 JUL 1916
+2 PLAC Marion, Osceola, Michigan
+1 FAMC @F956@
+0 @I4047@ INDI
+1 NAME Mary Margaret /Gibson/
+2 SOUR @S135@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 03 MAY 1913
+2 PLAC Marion, Michigan
+2 SOUR @S135@
+1 RESI
+2 PLAC Marion, Michigan
+2 SOUR @S135@
+1 DEAT
+2 DATE 02 MAR 1982
+2 PLAC Santa Barbara
+1 FAMC @F956@
+0 @I4048@ INDI
+1 NAME Robert /Gibson/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 23 DEC 1914
+2 PLAC Marion, Michigan
+1 DEAT
+2 DATE 18 NOV 1994
+2 PLAC Yountville, Napa, California, USA
+1 FAMC @F956@
+0 @I5@ INDI
+1 NAME unknown maternal /grandmother/
+1 SEX F
+1 BIRT
+2 DATE ABT 1880
+2 PLAC estim based on JNC birth
+1 FAMS @F67@
+1 FAMC @F2511@
+0 @I11693@ INDI
+1 NAME /Isabella/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1693
+1 SEX F
+1 DEAT
+2 DATE 25 FEB 1812
+1 FAMS @F2663@
+0 @I3950@ INDI
+1 NAME Lela I /Kipp/
+2 SOUR @S19@
+1 SEX F
+1 OBJE @M1115@
+1 FAMS @F948@
+0 @I4019@ INDI
+1 NAME Amanda Melvina /Lott/
+2 SOUR @S19@
+2 SOUR @S62@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 29 NOV 1858
+2 PLAC Cohactah, Michigan
+2 SOUR @S62@
+1 DEAT
+2 DATE 03 SEP 1939
+2 PLAC Marion, Osceola, Michigan, USA
+2 SOUR @S62@
+1 NAME Amanda Melvina /McClung/
+2 SOUR @S62@
+1 OBJE @M1134@
+1 FAMS @F950@
+0 @I4031@ INDI
+1 NAME /Margaret/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE ABT 1830
+2 PLAC Orange, New York, USA
+1 OBJE @M1144@
+1 FAMS @F954@
+0 @I4051@ INDI
+1 NAME Alexander /McClung/
+2 SOUR @S5@
+3 PAGE Indiana Archives and Records Administration; Indianapolis, IN, USA; 
+4 CONC Death Certificates; Year: 1939; Roll: 04
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 05 FEB 1852
+2 PLAC Newburgh, Orange, New York, USA
+2 SOUR @S5@
+3 PAGE Indiana Archives and Records Administration; Indianapolis, IN, USA; 
+4 CONC Death Certificates; Year: 1939; Roll: 04
+1 DEAT
+2 DATE 19 MAR 1939
+2 PLAC Wadena, Benton, Indiana, USA
+2 SOUR @S5@
+3 PAGE Indiana Archives and Records Administration; Indianapolis, IN, USA; 
+4 CONC Death Certificates; Year: 1939; Roll: 04
+1 OBJE @M1147@
+1 FAMC @F954@
+0 @I4060@ INDI
+1 NAME Anthony /McClung/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 26 NOV 1812
+2 PLAC Armagh, Armagh, Northern Ireland
+1 DEAT
+2 DATE 05 JUN 1889
+2 PLAC Kingston, Ulster, New York, United States
+1 FAMC @F955@
+0 @I4052@ INDI
+1 NAME Benjamin /McClung/
+2 SOUR @S134@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; 
+4 CONC NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; 
+4 CONC Roll #: 2608; Volume #: Roll 2608 - Certificates: 461350-461849, 22 
+4 CONC Jul 1924-23 Jul 1924
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 29 OCT 1867
+2 PLAC Little Britain, Orange Co, New York
+2 SOUR @S134@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; 
+4 CONC NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; 
+4 CONC Roll #: 2608; Volume #: Roll 2608 - Certificates: 461350-461849, 22 
+4 CONC Jul 1924-23 Jul 1924
+1 RESI
+2 PLAC Abany, New York
+2 SOUR @S134@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; 
+4 CONC NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; 
+4 CONC Roll #: 2608; Volume #: Roll 2608 - Certificates: 461350-461849, 22 
+4 CONC Jul 1924-23 Jul 1924
+1 DEAT
+2 DATE 09 NOV 1940
+2 PLAC Albany, New York
+1 FAMC @F954@
+0 @I11689@ INDI
+1 NAME Catharine /McClung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1689
+1 SEX F
+1 BIRT
+2 DATE 29 APR 1812
+2 PLAC Fayette, Seneca, New York, United States
+1 DEAT
+2 DATE 07 MAY 1887
+2 PLAC Davenport, Scott, Iowa, United States
+1 FAMC @F2661@
+0 @I10961@ INDI
+1 NAME Charles Ernest /McClung/
+2 SOUR @S227@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=116989954&pid=3
+5 CONC 455
+1 SEX M
+1 BIRT
+2 DATE 17 APR 1900
+2 PLAC Kirtley, Converse, Wyoming
+1 DEAT
+2 DATE 10 JUN 1964
+1 FAMC @F2510@
+0 @I10965@ INDI
+1 NAME Charles L. /Mcclung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 0965
+1 SEX M
+1 BIRT
+2 DATE 20 MAR 1824
+2 PLAC Fayette, Seneca, New York, USA
+1 DEAT
+2 DATE 06 JUN 1890
+2 PLAC Tama, Tama, Iowa, United States
+1 OBJE @M1867@
+1 FAMS @F2659@
+1 FAMS @F2660@
+1 FAMC @F2661@
+0 @I10957@ INDI
+1 NAME Charles Winfield /McClung/
+2 SOUR @S227@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=116989954&pid=3
+5 CONC 454
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 0957
+1 SEX M
+1 BIRT
+2 DATE 30 AUG 1861
+2 PLAC Massillon Twp., Cedar Co., Iowa
+1 DEAT
+2 DATE 20 DEC 1903
+2 PLAC Kingston, Madison Co., Arkansas
+1 OBJE @M1866@
+1 FAMS @F2510@
+1 FAMC @F2660@
+0 @I11690@ INDI
+1 NAME Charlotte /McClung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1690
+1 SEX F
+1 BIRT
+2 DATE 29 MAR 1818
+2 PLAC Fayette, Seneca, NY
+1 DEAT
+2 DATE 14 DEC 1868
+2 PLAC Davenport, Scott, IW
+1 FAMC @F2661@
+0 @I10963@ INDI
+1 NAME Chas /Mcclung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 0963
+1 SEX M
+1 BIRT
+2 DATE ABT 1901
+2 PLAC Wyoming
+1 FAMC @F2510@
+0 @I10962@ INDI
+1 NAME Dara /Mcclung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 0962
+1 SEX F
+1 BIRT
+2 DATE 1899
+2 PLAC Wyoming
+1 FAMC @F2510@
+0 @I4028@ INDI
+1 NAME Donald Johnson /McClung/
+2 SOUR @S19@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 05 OCT 1895
+2 PLAC Marion Osceo, Michigan
+2 SOUR @S19@
+1 FAMC @F950@
+0 @I10954@ INDI
+1 NAME Dora Isabell /McClung/
+2 SOUR @S227@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=116989954&pid=3
+5 CONC 449
+1 SEX F
+1 BIRT
+2 DATE 15 SEP 1898
+2 PLAC Kirtley, Niobrara, Wyoming
+1 DEAT
+2 DATE 30 MAR 1977
+2 PLAC Gravette, Benton, Arkansas, United States
+1 OBJE @M1865@
+1 FAMS @F2509@
+1 FAMC @F2510@
+0 @I4020@ INDI
+1 NAME Frank /McClung/
+2 SOUR @S19@
+2 SOUR @S62@
+2 SOUR @S1@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE SEP 1856
+2 PLAC Newburgh, Orange, New York, USA
+2 SOUR @S1@
+1 BURI
+2 PLAC Marion, Osceola County, Michigan, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 1925
+2 SOUR @S1@
+1 OBJE @M1135@
+1 FAMS @F950@
+1 FAMC @F954@
+0 @I3951@ INDI
+1 NAME Frank J /McClung/ Jr.
+2 SOUR @S19@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 17 FEB 1886
+2 PLAC Marion, Osceola, Michigan, USA
+1 DEAT
+2 DATE 05 SEP 1966
+2 PLAC Cadillac, Wexford, Michigan, USA
+1 OBJE @M1116@
+1 FAMS @F948@
+1 FAMC @F950@
+0 @I11686@ INDI
+1 NAME Infant Son /McClung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1686
+1 SEX M
+1 BIRT
+2 DATE 29 AUG 1820
+2 PLAC Fayette, Seneca, New York, United States
+1 DEAT
+2 DATE 12 SEP 1820
+2 PLAC Fayette, Seneca, New York, United States
+1 FAMC @F2661@
+0 @I11684@ INDI
+1 NAME Isa /Mcclung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1684
+1 SEX F
+1 BIRT
+2 DATE ABT 1860
+2 PLAC Iowa
+1 FAMC @F2660@
+0 @I11695@ INDI
+1 NAME Isabel /McClung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1695
+1 SEX F
+1 BIRT
+2 DATE 1787
+2 PLAC Hard Scrabble, Northumberland Co., Pennsylvania
+1 DEAT
+2 DATE 1835
+2 PLAC Mount Morris, Livingston Co., New York
+1 FAMC @F2662@
+0 @I11687@ INDI
+1 NAME Isabella /McClung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1687
+1 SEX F
+1 BIRT
+2 DATE 15 NOV 1816
+2 PLAC Fayette, Seneca, New York, United States
+1 DEAT
+2 DATE 24 FEB 1842
+2 PLAC Republic, Seneca, Ohio, United States
+1 FAMC @F2661@
+0 @I11681@ INDI
+1 NAME James /McClung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1681
+1 SEX M
+1 BIRT
+2 DATE 25 NOV 1784
+2 PLAC Scrabble, Hard county, PA, USA
+1 DEAT
+2 DATE 13 MAY 1847
+2 PLAC Republic, Seneca County, Ohio
+1 OBJE @M1886@
+1 FAMS @F2661@
+1 FAMC @F2662@
+0 @I11685@ INDI
+1 NAME James /McClung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1685
+1 SEX M
+1 BIRT
+2 DATE 31 JUL 1826
+2 PLAC Fayette, Seneca County, New York
+1 DEAT
+2 DATE 19 JUN 1908
+2 PLAC Epworth Dubuque, Iowa, USA
+1 FAMC @F2661@
+0 @I4058@ INDI
+1 NAME James /McClung/ MRCA-Wich-Ries
+2 SOUR @S240@
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=4
+5 CONC 058
+1 SEX M
+1 BIRT
+2 DATE 22 NOV 1744
+2 PLAC Buffalo, Butler Co., Pennsylvania
+1 RESI
+2 PLAC New York, United States
+2 SOUR @S240@
+1 DEAT
+2 DATE 16 AUG 1839
+2 PLAC Waterloo, Seneca Co., New York
+1 RESI
+2 DATE 1834
+2 PLAC New York
+2 SOUR @S240@
+1 OBJE @M1150@
+1 FAMS @F2662@
+1 FAMS @F2663@
+0 @I10959@ INDI
+1 NAME James Winfield /McClung/
+2 SOUR @S227@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=116989954&pid=3
+5 CONC 457
+1 SEX M
+1 BIRT
+2 DATE 15 MAR 1904
+2 PLAC Kingston, Madison, Arkansas
+1 DEAT
+2 DATE 06 FEB 1986
+2 PLAC Dequeen, Sevier, Arkansas
+1 FAMC @F2510@
+0 @I4057@ INDI
+1 NAME Jane /McClung/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE ABT 1836
+2 PLAC New York
+1 FAMC @F954@
+0 @I4054@ INDI
+1 NAME John /McClung/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=4
+5 CONC 054
+1 SEX M
+1 BIRT
+2 DATE 1781
+2 PLAC Hard Scrabble, Northumberland Co., Pennsylvania
+1 DEAT
+2 DATE 20 DEC 1845
+2 PLAC Geneva Co., New York
+1 BIRT
+2 DATE 1781
+1 BIRT
+2 DATE 12 JUL 1781
+2 PLAC Antrim, Ulster, Ireland?
+1 DEAT
+2 PLAC Waterloo,NY
+1 DEAT
+2 DATE 01 AUG 1850
+2 PLAC Newburgh, Orange, New York, United States
+1 OBJE @M1149@
+1 FAMS @F955@
+1 FAMC @F2662@
+0 @I4029@ INDI
+1 NAME Margaret Amanda /McClung/
+2 SOUR @S1@
+2 SOUR @S135@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE NOV 1891
+2 PLAC Michigan
+2 SOUR @S62@
+2 SOUR @S1@
+1 BURI
+2 PLAC Marion, Osceola County, Michigan, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 24 FEB 1946
+2 PLAC Gladwin, Gladwin, Michigan, USA
+2 SOUR @S62@
+2 SOUR @S1@
+1 NAME Margaret /Mc Clung Gibson/
+2 SOUR @S62@
+1 FAMS @F956@
+1 FAMC @F950@
+0 @I11688@ INDI
+1 NAME Mary /McClung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1688
+1 SEX F
+1 BIRT
+2 DATE 13 MAY 1814
+2 PLAC Fayette, Seneca, New York, United States
+1 DEAT
+2 DATE 12 JAN 1876
+2 PLAC Valley, Douglas, Nebraska, United States
+1 FAMC @F2661@
+0 @I10960@ INDI
+1 NAME Ralph Deuel /McClung/
+2 SOUR @S227@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=116989954&pid=3
+5 CONC 456
+1 SEX M
+1 BIRT
+2 DATE 31 JAN 1902
+2 PLAC Kirtley, Converse, Wyoming
+1 DEAT
+2 DATE 14 JAN 1905
+2 PLAC Kingston, Madison, Arkansas
+1 FAMC @F2510@
+0 @I11694@ INDI
+1 NAME Rebbeca /McClung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1694
+1 SEX F
+1 BIRT
+2 DATE 09 JUN 1809
+1 DEAT
+2 DATE 09 MAR 1812
+1 FAMC @F2663@
+0 @I11697@ INDI
+1 NAME Rebecca /McClung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1697
+1 SEX F
+1 BIRT
+2 DATE 10 APR 1790
+2 PLAC Hard Scrabble, Northumberland Co., Pennsylvania
+1 DEAT
+2 DATE 21 JUN 1831
+2 PLAC Republic, Seneca Co., Ohio
+1 FAMC @F2662@
+0 @I11698@ INDI
+1 NAME Robert /McClung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1698
+1 SEX M
+1 BIRT
+2 DATE 17 FEB 1783
+2 PLAC Hard Scrabble, Northumberland Co., Pennsylvania
+1 DEAT
+2 DATE 24 FEB 1832
+2 PLAC Geneva, Seneca Co., New York
+1 FAMC @F2662@
+0 @I4030@ INDI
+1 NAME Samuel /McClung/
+2 SOUR @S134@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; 
+4 CONC NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; 
+4 CONC Roll #: 2608; Volume #: Roll 2608 - Certificates: 461350-461849, 22 
+4 CONC Jul 1924-23 Jul 1924
+2 SOUR @S5@
+3 PAGE Indiana Archives and Records Administration; Indianapolis, IN, USA; 
+4 CONC Death Certificates; Year: 1939; Roll: 04
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE ABT 1815
+2 PLAC Ireland
+2 SOUR @S134@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; 
+4 CONC NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; 
+4 CONC Roll #: 2608; Volume #: Roll 2608 - Certificates: 461350-461849, 22 
+4 CONC Jul 1924-23 Jul 1924
+1 DEAT
+2 DATE BEF 1890
+2 PLAC New Windsor, Orange, New York, USA
+1 OBJE @M1143@
+1 FAMS @F953@
+1 FAMS @F954@
+1 FAMC @F955@
+0 @I4027@ INDI
+1 NAME Samuel /McClung/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 1881
+1 DEAT
+2 DATE 15 OCT 1881
+1 FAMC @F950@
+0 @I4056@ INDI
+1 NAME Samuel /McClung/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE ABT 1848
+2 PLAC Orange, New York, USA
+1 DEAT
+2 DATE 26 DEC 1909
+2 PLAC Newburgh, Orange, New York, USA
+1 FAMC @F954@
+0 @I11696@ INDI
+1 NAME Sarah /McClung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1696
+1 SEX F
+1 BIRT
+2 DATE 1789
+2 PLAC Hard Scrabble, Northumberland Co., Pennsylvania
+1 DEAT
+2 DATE 11 JUN 1855
+2 PLAC Waterloo, Seneca Co., New York
+1 FAMC @F2662@
+0 @I3949@ INDI
+1 NAME Sarah Jane /McClung/
+2 SOUR @S71@
+2 SOUR @S19@
+1 SEX F
+1 BIRT
+2 DATE 13 NOV 1923
+2 PLAC Osceola, Michigan
+2 SOUR @S71@
+2 SOUR @S19@
+1 DEAT
+2 DATE 13 APR 2005
+2 SOUR @S19@
+1 OBJE @M1114@
+1 FAMS @F937@
+1 FAMC @F948@
+0 @I11683@ INDI
+1 NAME Victor /Mcclung/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1683
+1 SEX M
+1 BIRT
+2 DATE ABT 1864
+2 PLAC Iowa
+1 FAMC @F2660@
+0 @I4053@ INDI
+1 NAME Esther /McWilliams/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE ABT 1790
+2 PLAC Ireland
+1 DEAT
+2 DATE BEF MAY 1827
+2 PLAC Ireland
+1 OBJE @M1148@
+1 FAMS @F955@
+0 @I7@ INDI
+1 NAME unknown /mother/
+1 SEX F
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME new tether /Nicholas/
+1 SEX M
+1 FAMS @F2515@
+1 FAMC @F1@
+0 @I4@ INDI
+1 NAME unknown father /Nicholas/
+1 SEX M
+1 BIRT
+2 DATE ABT 1905
+2 PLAC based on son's age
+1 FAMS @F1@
+1 FAMC @F67@
+0 @I6@ INDI
+1 NAME unknown grandfather /Nicholas/
+1 SEX M
+1 BIRT
+2 DATE ABT 1880
+2 PLAC estim based on JNC birth
+1 FAMS @F67@
+0 @I2188@ INDI
+1 NAME Bernice /Ocker/ DNAtester-24cM
+1 SEX F
+1 BIRT
+2 DATE ABT 1933
+2 PLAC Texas
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tom Green, Texas; Roll: T627_4147; Page: 6B; 
+4 CONC Enumeration District: 226-19
+1 RESI
+2 DATE 1935
+2 PLAC Rural, Tom Green, Texas
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tom Green, Texas; Roll: T627_4147; Page: 6B; 
+4 CONC Enumeration District: 226-19
+1 NAME Bernice /Acker/
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tom Green, Texas; Roll: T627_4147; Page: 6B; 
+4 CONC Enumeration District: 226-19
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 01 APR 1940
+2 PLAC Tom Green, Texas, USA
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tom Green, Texas; Roll: T627_4147; Page: 6B; 
+4 CONC Enumeration District: 226-19
+1 OBJE @M789@
+1 FAMS @F936@
+0 @I11682@ INDI
+1 NAME Julia Ann /Ricketson/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 1682
+1 SEX F
+1 BIRT
+2 DATE 1832
+1 DEAT
+2 DATE 13 AUG 1855
+2 PLAC Republic, Seneca County, Ohio
+1 FAMS @F2659@
+0 @I10964@ INDI
+1 NAME Nancy Valeria /Ricketson/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+5 CONC 0964
+1 SEX F
+1 BIRT
+2 DATE ABT 1838
+2 PLAC Ohio
+1 DEAT
+2 DATE 09 SEP 1919
+2 PLAC St. Joseph, Buchanan County, Missouri
+1 FAMS @F2660@
+0 @I10953@ INDI
+1 NAME John William /Slaven/
+2 SOUR @S227@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=116989954&pid=3
+5 CONC 450
+1 SEX M
+1 BIRT
+2 DATE 10 OCT 1893
+2 PLAC Ripley, Missouri, United States
+1 DEAT
+2 DATE 02 NOV 1959
+2 PLAC Tucson, Pima, Arizona, United States
+1 FAMS @F2509@
+0 @I10937@ INDI
+1 NAME Roger /Slaven/
+2 SOUR @S227@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=116989954&pid=3
+5 CONC 432
+1 SEX M
+1 BIRT
+2 DATE 21 DEC 1939
+2 PLAC West Hibbard, Kearny, Kansas, United States
+1 FAMC @F2507@
+0 @I10938@ INDI
+1 NAME Rosetta /Slaven/
+2 SOUR @S227@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=116989954&pid=3
+5 CONC 431
+1 SEX F
+1 BIRT
+2 DATE 1945
+2 PLAC Haviland, Kiowa, Kansas
+1 FAMC @F2507@
+0 @I10955@ INDI
+1 NAME Ruby Inez /Slaven/
+2 SOUR @S227@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=116989954&pid=3
+5 CONC 452
+1 SEX F
+1 BIRT
+2 DATE 14 JUL 1915
+2 PLAC Kingston, Madison, Arkansas
+1 DEAT
+2 DATE 01 JAN 2002
+2 PLAC Neosho, Newton, Missouri
+1 FAMC @F2509@
+0 @I10940@ INDI
+1 NAME Stanly /Slaven/
+1 SEX M
+1 BIRT
+2 PLAC Lives, in, Yukon, Canadian, Oklahoma, USA
+1 FAMC @F2507@
+0 @I10956@ INDI
+1 NAME Teddie Eugene /Slaven/
+2 SOUR @S227@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=116989954&pid=3
+5 CONC 451
+1 SEX M
+1 BIRT
+2 DATE 29 MAY 1943
+2 PLAC Kendall, Kearny, Kansas
+1 DEAT
+2 DATE 03 JAN 1944
+2 PLAC Garden City, Finney, Kansas
+1 FAMC @F2509@
+0 @I10939@ INDI
+1 NAME William Winfield /Slaven/
+2 SOUR @S1@
+2 SOUR @S227@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=116989954&pid=3
+5 CONC 430
+1 SEX M
+1 BIRT
+2 DATE 08 NOV 1917
+2 PLAC Madison County, Arkansas, United States of America
+2 SOUR @S1@
+1 BURI
+2 PLAC Haviland, Kiowa County, Kansas, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 29 JUN 2014
+2 PLAC Haviland, Kiowa County, Kansas, United States of America
+2 SOUR @S1@
+1 FAMS @F2507@
+1 FAMC @F2509@
+0 @I4059@ INDI
+1 NAME Jean Straharn /Strain/
+2 SOUR @S229@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=4
+5 CONC 059
+1 SEX F
+1 BIRT
+2 DATE 16 AUG 1744
+2 PLAC Hanover, Lancaster Co., Pennsylvania
+1 DEAT
+2 DATE 26 AUG 1827
+2 PLAC Waterloo, Seneca Co.,  New York
+1 OBJE @M1151@
+1 FAMS @F2662@
+0 @I102@ INDI
+1 NAME Tether-4 /White-Feist/
+1 SEX F
+1 FAMS @F2511@
+0 @I2201@ INDI
+1 NAME Barbara /Wich/ DNAtester-30cM
+1 SEX F
+1 BIRT
+2 DATE ABT 1945
+2 PLAC per mo birth
+1 OBJE @M790@
+1 FAMS @F936@
+1 FAMC @F937@
+0 @I3948@ INDI
+1 NAME Michael James /Wich/
+2 SOUR @S71@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 24 NOV 1921
+2 PLAC Phoenix, Maricopa, AZ
+2 SOUR @S71@
+1 DEAT
+2 DATE 21 MAR 1998
+2 PLAC Phoenix, Maricopa, AZ
+1 OBJE @M1113@
+1 FAMS @F937@
+0 @I103@ INDI
+1 NAME Tether-3 /Wich-Ocker/
+1 SEX M
+1 FAMS @F2511@
+1 FAMS @F2512@
+1 FAMC @F936@
+0 @I4055@ INDI
+1 NAME Marinda "Mary" Ann /Wygant/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE ABT 1817
+2 PLAC New York, USA
+1 DEAT
+2 DATE BEF 1865
+2 PLAC Newburgh, Orange, New York, USA
+1 FAMS @F953@
+0 @F2515@ FAM
+1 HUSB @I3@
+1 WIFE @I2@
+1 CHIL @I1@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2512@ FAM
+1 HUSB @I103@
+1 WIFE @I4112@
+0 @F2661@ FAM
+1 HUSB @I11681@
+1 WIFE @I11680@
+1 CHIL @I11689@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I11688@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I11687@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I11690@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I11686@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I10965@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I11685@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 24 JAN 1811
+2 PLAC Fayette, Seneca, New York, United States
+0 @F2507@ FAM
+1 HUSB @I10939@
+1 WIFE @I9364@
+1 CHIL @I10937@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I10938@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I10940@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2510@ FAM
+1 HUSB @I10957@
+1 WIFE @I10958@
+1 CHIL @I10954@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I10962@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I10961@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I10963@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I10960@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I10959@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 08 APR 1896
+0 @F956@ FAM
+1 HUSB @I4050@
+1 WIFE @I4029@
+1 CHIL @I4047@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I4048@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I4049@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 12 DEC 1911
+2 PLAC Marion, Osceola, Michigan, USA
+0 @F67@ FAM
+1 HUSB @I6@
+1 WIFE @I5@
+1 CHIL @I4@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2663@ FAM
+1 HUSB @I4058@
+1 WIFE @I11693@
+1 CHIL @I11694@
+2 _FREL Natural
+2 _MREL Natural
+0 @F948@ FAM
+1 HUSB @I3951@
+1 WIFE @I3950@
+1 CHIL @I3949@
+2 _FREL Natural
+2 _MREL Natural
+0 @F950@ FAM
+1 HUSB @I4020@
+1 WIFE @I4019@
+1 CHIL @I4027@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3951@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I4029@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I4028@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1879
+2 PLAC Livingston, Michigan, USA
+0 @F954@ FAM
+1 HUSB @I4030@
+1 WIFE @I4031@
+1 CHIL @I4057@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I4056@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I4051@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I4020@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I4052@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2659@ FAM
+1 HUSB @I10965@
+1 WIFE @I11682@
+1 MARR
+2 DATE 09 APR 1852
+2 PLAC Republic Seneca Co OH
+0 @F2660@ FAM
+1 HUSB @I10965@
+1 WIFE @I10964@
+1 CHIL @I11684@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I10957@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I11683@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 08 MAY 1859
+2 PLAC Seneca, Ohio, USA
+0 @F2509@ FAM
+1 HUSB @I10953@
+1 WIFE @I10954@
+1 CHIL @I10955@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I10939@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I10956@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 16 SEP 1914
+2 PLAC Madison, Arkansas, United States
+0 @F2662@ FAM
+1 HUSB @I4058@
+1 WIFE @I4059@
+1 CHIL @I4054@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I11698@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I11681@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I11695@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I11696@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I11697@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE DEC 1775
+2 PLAC Pennsylvania
+0 @F955@ FAM
+1 HUSB @I4054@
+1 WIFE @I4053@
+1 CHIL @I4060@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I4030@
+2 _FREL Natural
+2 _MREL Natural
+0 @F953@ FAM
+1 HUSB @I4030@
+1 WIFE @I4055@
+0 @F937@ FAM
+1 HUSB @I3948@
+1 WIFE @I3949@
+1 CHIL @I2201@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 21 JUN 1948
+2 PLAC Pinal, Arizona, USA
+2 SOUR @S71@
+0 @F1@ FAM
+1 HUSB @I4@
+1 WIFE @I7@
+1 CHIL @I3@
+2 _FREL Natural
+2 _MREL Natural
+0 @F936@ FAM
+1 HUSB @I2201@
+1 WIFE @I2188@
+1 CHIL @I103@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2511@ FAM
+1 HUSB @I103@
+1 WIFE @I102@
+1 CHIL @I5@
+2 _FREL Natural
+2 _MREL Natural
+0 @S1@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Find A Grave Index, 1600s-Current
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S2@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1940 United States Federal Census
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S5@ SOUR
+1 AUTH Ancestry.com
+1 TITL Indiana, Death Certificates, 1899-2011
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S19@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Social Security Applications and Claims Index, 1936-2007
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S62@ SOUR
+1 AUTH Ancestry.com
+1 TITL Michigan, Death Records, 1867-1950
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S71@ SOUR
+1 AUTH Ancestry.com
+1 TITL Arizona, County Marriage Records, 1865-1972
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S134@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S. Passport Applications, 1795-1925
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R3@
+0 @S135@ SOUR
+1 AUTH Ancestry.com
+1 TITL Michigan, Marriage Records, 1867-1952
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R3@
+0 @S227@ SOUR
+1 TITL Ancestry Family Trees
+1 PUBL Name: Online publication - Provo, UT, USA: Ancestry.com.  Original 
+2 CONC data:  Family Tree files submitted by Ancestry members.;
+1 REPO @R1@
+0 @S229@ SOUR
+1 TITL Ancestry Family Trees
+1 PUBL Name: Online publication - Provo, UT, USA: Ancestry.com.  Original 
+2 CONC data:  Family Tree files submitted by Ancestry members.;
+1 REPO @R3@
+0 @S240@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Revolutionary War Pension and Bounty-Land Warrant Application 
+2 CONC Files, 1800-1900
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R3@
+0 @R1@ REPO
+1 NAME Ancestry.com
+1 ADDR
+1 EMAIL
+1 PHON
+0 @R3@ REPO
+1 NAME Ancestry.com
+1 ADDR http://www.Ancestry.com
+1 EMAIL
+1 PHON
+0 TRLR

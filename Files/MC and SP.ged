@@ -1,0 +1,1493 @@
+0 HEAD
+1 SOUR FTM
+2 VERS Family Tree Maker (21.0.0.388)
+2 NAME Family Tree Maker for Windows
+2 CORP Ancestry.com
+3 ADDR 360 W 4800 N
+4 CONT Provo, UT 84604
+3 PHON (801) 705-7000
+1 DEST GED55
+1 DATE 18 FEB 2018
+1 CHAR ANSI
+1 FILE C:\Users\Colleen\Desktop\Chandler DNA\Gedcoms\February 17, 2018\Matthew Cole and Susanna Pilley_2018-02-18.ged
+1 SUBM @SUBM@
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @SUBM@ SUBM
+0 @I441@ INDI
+1 NAME Mary Beatrice Susan /Askins/ unlinked
+2 SOUR @S18@
+3 PAGE Year: 1920; Census Place: Prairie, Franklin, Arkansas; Roll: T625_62; 
+4 CONC Page: 3A; Enumeration District: 54
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 8A; Enumeration District: 79-6A
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 25 AUG 1913
+2 PLAC Hartman, Johnson, Arkansas, USA
+2 SOUR @S18@
+3 PAGE Year: 1920; Census Place: Prairie, Franklin, Arkansas; Roll: T625_62; 
+4 CONC Page: 3A; Enumeration District: 54
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 8A; Enumeration District: 79-6A
+1 RESI
+2 DATE 1935
+2 PLAC Tulsa, Tulsa, Oklahoma
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 8A; Enumeration District: 79-6A
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 01 APR 1940
+2 PLAC Tulsa, Tulsa, Oklahoma, USA
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 8A; Enumeration District: 79-6A
+1 RESI Relation to Head: DaughterResidence Marital Status: Single
+2 DATE 1920
+2 PLAC Prairie, Franklin, Arkansas, USA
+2 SOUR @S18@
+3 PAGE Year: 1920; Census Place: Prairie, Franklin, Arkansas; Roll: T625_62; 
+4 CONC Page: 3A; Enumeration District: 54
+1 FAMS @F92@
+0 @I664@ INDI
+1 NAME Dora Lee /Blackwell/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 25 JUN 1896
+2 PLAC Ratcliff, Logan, Arkansas, United States
+1 DEAT
+2 DATE 31 OCT 1989
+2 PLAC Charleston, Franklin, Arkansas, United States
+1 FAMS @F129@
+0 @I333@ INDI
+1 NAME Phillip C /Boyd/ DNAtester-A639828-39cM
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 3B; Enumeration District: 79-22
+2 SOUR @S11@
+2 SOUR @S12@
+2 SOUR @S13@
+1 SEX M
+1 BIRT
+2 DATE 03 MAR 1938
+2 PLAC Oklahoma
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 3B; Enumeration District: 79-22
+2 SOUR @S11@
+2 SOUR @S12@
+2 SOUR @S13@
+1 RESI
+2 PLAC Tulsa, OK
+2 SOUR @S13@
+1 RESI
+2 DATE 1992
+2 PLAC Tulsa, OK
+2 SOUR @S12@
+1 RESI Marital Status: SingleRelation to Head of House: Son
+2 DATE 01 APR 1940
+2 PLAC Tulsa, Tulsa, Oklahoma, USA
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 3B; Enumeration District: 79-22
+1 NOTE @N9@
+1 OBJE @M184@
+1 OBJE @M185@
+1 FAMS @F72@
+1 FAMS @F73@
+1 FAMC @F91@
+0 @I749@ INDI
+1 NAME Emily /Brown/
+2 SOUR @S1@
+1 SEX F
+1 BIRT
+2 DATE 11 AUG 1830
+2 PLAC Alabama, United States of America
+2 SOUR @S1@
+1 BURI
+2 PLAC Cowlington, Le Flore County, Oklahoma, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 11 FEB 1914
+2 PLAC OK
+2 SOUR @S1@
+1 OBJE @M344@
+1 FAMS @F145@
+0 @I466@ INDI
+1 NAME Mary Ann /Brown/
+2 SOUR @S1@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 03 OCT 1835
+2 PLAC Wayne County, TN
+2 SOUR @S1@
+1 BURI
+2 PLAC Branch, Franklin County, Arkansas, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 30 NOV 1891
+2 PLAC Branch, Franklin, Arkansas, United States
+2 SOUR @S1@
+1 BIRT
+2 DATE 03 OCT 1835
+2 PLAC Alabama, United States of America
+2 SOUR @S1@
+1 OBJE @M259@
+1 FAMS @F104@
+0 @I730@ INDI
+1 NAME Patrick /Carey/ PBoyd-2c
+1 SEX M
+1 OBJE @M338@
+1 FAMC @F139@
+0 @I731@ INDI
+1 NAME private /Carey/
+1 SEX M
+1 FAMS @F139@
+0 @I508@ INDI
+1 NAME Alice Beaulah /Cole/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 21 JUN 1875
+2 PLAC Sixmiles, Arkansas, USA
+1 DEAT
+2 DATE 23 SEP 1919
+1 FAMC @F104@
+0 @I510@ INDI
+1 NAME Arvil Benton /Cole/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 1861
+2 PLAC Izard, Arkansas, USA
+1 DEAT
+2 DATE 19 MAY 1954
+2 PLAC Branch, Franklin, Arkansas, USA
+1 FAMC @F104@
+0 @I447@ INDI
+1 NAME Cora Columbus /Cole/
+2 SOUR @S1@
+2 SOUR @S19@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 14 FEB 1865
+2 PLAC Izard, Arkansas, USA
+2 SOUR @S1@
+1 BURI
+2 PLAC Branch, Franklin County, Arkansas, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 31 DEC 1903
+2 PLAC Franklin County, Arkansas, United States of America
+2 SOUR @S1@
+1 NOTE @N12@
+1 OBJE @M251@
+1 FAMS @F95@
+1 FAMC @F104@
+0 @I507@ INDI
+1 NAME Ella Florence /Cole/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 31 JUL 1866
+2 PLAC Arkansas, United States
+1 DEAT
+2 DATE JAN 1902
+1 FAMC @F104@
+0 @I511@ INDI
+1 NAME Gordon Pomeroy /Cole/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 1872
+2 PLAC Logan, Arkansas, USA
+1 DEAT
+2 DATE 31 JAN 1899
+2 PLAC Logan, Arkansas, USA
+1 FAMC @F104@
+0 @I509@ INDI
+1 NAME J Edna /Cole/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 1863
+2 PLAC Izard, Arkansas, USA
+1 DEAT
+2 DATE 05 SEP 1905
+2 PLAC Franklin, Arkansas, USA
+1 FAMC @F104@
+0 @I736@ INDI
+1 NAME James Richmond /Cole/
+2 SOUR @S1@
+1 SEX M
+1 BIRT
+2 DATE 29 APR 1827
+2 PLAC Hardin, Lincoln County, Tennessee, USA
+2 SOUR @S1@
+1 BURI
+2 PLAC Charleston, Franklin County, Arkansas, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 20 SEP 1889
+2 PLAC Cowlington, Le Flore, Oklahoma, USA
+2 SOUR @S1@
+1 OBJE @M341@
+1 FAMS @F145@
+1 FAMC @F143@
+0 @I750@ INDI
+1 NAME Martin Van /Cole/
+2 SOUR @S15@
+3 PAGE Year: 1910; Census Place: Cowlington, Le Flore, Oklahoma; Roll: 
+4 CONC T624_1258; Page: 18A; Enumeration District: 0149; FHL microfilm: 
+4 CONC 1375271
+2 SOUR @S1@
+1 SEX M
+1 BIRT
+2 DATE 18 AUG 1865
+2 PLAC Chisomville, Logan County, Arkansas, USA
+2 SOUR @S1@
+1 BURI
+2 PLAC Cowlington, Le Flore County, Oklahoma, United States of America
+2 SOUR @S1@
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 1910
+2 PLAC Cowlington, Le Flore, Oklahoma, USA
+2 SOUR @S15@
+3 PAGE Year: 1910; Census Place: Cowlington, Le Flore, Oklahoma; Roll: 
+4 CONC T624_1258; Page: 18A; Enumeration District: 0149; FHL microfilm: 
+4 CONC 1375271
+1 DEAT
+2 DATE 22 JAN 1912
+2 PLAC Cowlington, Le Flore, Oklahoma, USA
+2 SOUR @S1@
+1 BIRT
+2 DATE 1865
+2 PLAC Texas
+2 SOUR @S15@
+3 PAGE Year: 1910; Census Place: Cowlington, Le Flore, Oklahoma; Roll: 
+4 CONC T624_1258; Page: 18A; Enumeration District: 0149; FHL microfilm: 
+4 CONC 1375271
+1 OBJE @M345@
+1 FAMS @F146@
+1 FAMC @F145@
+0 @I515@ INDI
+1 NAME Matthew /Cole/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 1785
+2 PLAC Anson, North Carolina, United States
+1 DEAT
+2 DATE 1855
+2 PLAC Clark County, Arkansas, USA
+1 OBJE @M299@
+1 OBJE @M300@
+1 FAMS @F143@
+0 @I506@ INDI
+1 NAME Matthew Samuel /Cole/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE JUL 1854
+2 PLAC Franklin, Arkansas, United States
+1 DEAT
+2 DATE 18 FEB 1934
+2 PLAC Branch, Franklin, Arkansas, United States
+1 FAMC @F104@
+0 @I754@ INDI
+1 NAME Maude Zella /Cole/
+2 SOUR @S11@
+2 SOUR @S15@
+3 PAGE Year: 1910; Census Place: Cowlington, Le Flore, Oklahoma; Roll: 
+4 CONC T624_1258; Page: 18A; Enumeration District: 0149; FHL microfilm: 
+4 CONC 1375271
+1 SEX F
+1 BIRT
+2 DATE 1896
+2 PLAC Oklahoma
+2 SOUR @S11@
+2 SOUR @S15@
+3 PAGE Year: 1910; Census Place: Cowlington, Le Flore, Oklahoma; Roll: 
+4 CONC T624_1258; Page: 18A; Enumeration District: 0149; FHL microfilm: 
+4 CONC 1375271
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 1910
+2 PLAC Cowlington, Le Flore, Oklahoma, USA
+2 SOUR @S15@
+3 PAGE Year: 1910; Census Place: Cowlington, Le Flore, Oklahoma; Roll: 
+4 CONC T624_1258; Page: 18A; Enumeration District: 0149; FHL microfilm: 
+4 CONC 1375271
+1 DEAT
+2 DATE 1979
+1 OBJE @M346@
+1 OBJE @M347@
+1 FAMS @F147@
+1 FAMC @F146@
+0 @I513@ INDI
+1 NAME Richmond Sardis /Cole/
+2 SOUR @S1@
+1 SEX M
+1 BIRT
+2 DATE 05 JUL 1852
+2 PLAC Izard, Arkansas, USA
+2 SOUR @S1@
+1 BURI
+2 PLAC Branch, Franklin County, Arkansas, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 01 OCT 1922
+2 PLAC Vinita, Craig, Oklahoma
+2 SOUR @S1@
+1 OBJE @M297@
+1 FAMS @F491@
+1 FAMS @F492@
+1 FAMS @F493@
+1 FAMC @F104@
+0 @I512@ INDI
+1 NAME Rosanna /Cole/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 13 JUN 1849
+2 PLAC Izard, Arkansas, USA
+1 DEAT
+2 DATE 15 DEC 1887
+2 PLAC Branch, Franklin, Arkansas, USA
+1 FAMC @F104@
+0 @I505@ INDI
+1 NAME Sara "Sally" Ann /Cole/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 21 MAR 1853
+2 PLAC Izard, Arkansas, United States
+1 DEAT
+2 DATE 1934
+2 PLAC Branch, Franklin, Arkansas, United States
+1 FAMC @F104@
+0 @I504@ INDI
+1 NAME Squire E /Cole/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 1858
+1 DEAT
+2 DATE 1909
+1 FAMC @F104@
+0 @I467@ INDI
+1 NAME William Clayton /Cole/ Sr
+2 SOUR @S1@
+2 SOUR @S75@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 03 MAY 1832
+2 PLAC Lincoln, Tennessee, USA
+2 SOUR @S1@
+1 BURI
+2 PLAC Branch, Franklin County, Arkansas, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 30 MAY 1891
+2 PLAC Branch, Logan, Arkansas
+2 SOUR @S1@
+1 DEAT
+2 DATE 30 MAY 1891
+2 PLAC Branch, Franklin County, Arkansas, United States of America
+2 SOUR @S1@
+1 OBJE @M260@
+1 FAMS @F104@
+1 FAMC @F143@
+0 @I757@ INDI
+1 NAME Cheryll Ann /Cox/ pBoyd-89cM
+1 SEX F
+1 BIRT
+2 DATE 1947
+2 PLAC NM
+1 OBJE @M349@
+1 FAMS @F149@
+1 FAMC @F148@
+0 @I758@ INDI
+1 NAME Harley Kalbert /Cox/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 10 MAR 1910
+2 PLAC Hinton, Caddo, Oklahoma, United States
+1 DEAT
+2 DATE 16 JUL 2003
+2 PLAC Tulsa, Oklahoma, USA
+1 FAMS @F148@
+0 @I735@ INDI
+1 NAME Terrye /Goodpaster/
+1 SEX F
+1 FAMS @F142@
+0 @I439@ INDI
+1 NAME Minnie Lavada /Hall/
+2 SOUR @S1@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 06 AUG 1888
+2 PLAC Logan County, Arkansas, USA
+2 SOUR @S1@
+1 BURI
+2 PLAC Bixby, Tulsa County, Oklahoma, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 19 APR 1964
+2 PLAC Bixby, Tulsa, Oklahoma, USA
+2 SOUR @S1@
+1 OBJE @M248@
+1 FAMS @F94@
+0 @I348@ INDI
+1 NAME Bettie Laura /Hawkins/
+2 SOUR @S11@
+2 SOUR @S14@
+3 PAGE Issue State: Oklahoma; Issue Date: 1953-1954
+1 SEX F
+1 BIRT
+2 DATE 17 SEP 1938
+2 PLAC Tulsa, OK
+2 SOUR @S11@
+2 SOUR @S14@
+3 PAGE Issue State: Oklahoma; Issue Date: 1953-1954
+1 DEAT
+2 DATE 18 JUN 2009
+2 PLAC Tulsa, Tulsa, Oklahoma, USA
+2 SOUR @S14@
+3 PAGE Issue State: Oklahoma; Issue Date: 1953-1954
+1 OBJE @M205@
+1 FAMS @F73@
+0 @I734@ INDI
+1 NAME "ReederDCFan" /Hayes/ PBoyd-1c2r
+1 SEX F
+1 OBJE @M340@
+1 FAMC @F142@
+0 @I732@ INDI
+1 NAME Donald /Hayes/ PBoyd-1c1r
+1 SEX M
+1 OBJE @M339@
+1 FAMS @F142@
+1 FAMC @F141@
+0 @I597@ INDI
+1 NAME Donald Ray /Hayes/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 15 JUL 1936
+2 PLAC Bixby, Tulsa, Oklahoma, USA
+1 DEAT
+2 DATE 02 APR 1994
+2 PLAC Westville, Adair, Oklahoma, United States
+1 OBJE @M311@
+1 FAMS @F141@
+1 FAMC @F140@
+0 @I596@ INDI
+1 NAME Henry Martin /Hayes/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 03 NOV 1913
+2 PLAC Georgia, United States
+1 DEAT
+2 DATE 25 AUG 1985
+2 PLAC Westville, Adair, Oklahoma, United States
+1 FAMS @F140@
+0 @I1943@ INDI
+1 NAME Ruby Stella /Hudelson/
+2 SOUR @S1@
+1 SEX U
+1 BIRT
+2 DATE 09 OCT 1915
+2 PLAC McAlester, Pittsburg County, Oklahoma, United States of America
+2 SOUR @S1@
+1 BURI
+2 PLAC McAlester, Pittsburg County, Oklahoma, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 07 MAY 2002
+2 PLAC McAlester, Pittsburg County, Oklahoma, United States of America
+2 SOUR @S1@
+1 FAMC @F493@
+0 @I331@ INDI
+1 NAME Irene Nellie /Kinney/
+2 SOUR @S11@
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 3B; Enumeration District: 79-22
+2 SOUR @S14@
+3 PAGE Number: 441-09-6400; Issue State: Oklahoma; Issue Date: Before 1951
+2 SOUR @S15@
+3 PAGE Year: 1910; Census Place: Washington Ward 2, Washington, Pennsylvania; 
+4 CONC Roll: T624_1427; Page: 2A; Enumeration District: 0238; FHL microfilm: 
+4 CONC 1375443
+2 SOUR @S1@
+2 SOUR @S16@
+2 SOUR @S17@
+3 PAGE Year: 1930; Census Place: Wekiwa, Tulsa, Oklahoma; Roll: 1933; Page: 
+4 CONC 8B; Enumeration District: 0179; FHL microfilm: 2341667
+2 SOUR @S18@
+3 PAGE Year: 1920; Census Place: Center, Greene, Pennsylvania; Roll: 
+4 CONC T625_1573; Page: 10B; Enumeration District: 121
+2 SOUR @S19@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 26 OCT 1905
+2 PLAC Greene County, Pennsylvania, USA
+2 SOUR @S11@
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 3B; Enumeration District: 79-22
+2 SOUR @S14@
+3 PAGE Number: 441-09-6400; Issue State: Oklahoma; Issue Date: Before 1951
+2 SOUR @S15@
+3 PAGE Year: 1910; Census Place: Washington Ward 2, Washington, Pennsylvania; 
+4 CONC Roll: T624_1427; Page: 2A; Enumeration District: 0238; FHL microfilm: 
+4 CONC 1375443
+2 SOUR @S1@
+2 SOUR @S17@
+3 PAGE Year: 1930; Census Place: Wekiwa, Tulsa, Oklahoma; Roll: 1933; Page: 
+4 CONC 8B; Enumeration District: 0179; FHL microfilm: 2341667
+2 SOUR @S18@
+3 PAGE Year: 1920; Census Place: Center, Greene, Pennsylvania; Roll: 
+4 CONC T625_1573; Page: 10B; Enumeration District: 121
+1 BURI
+2 PLAC Tulsa, Tulsa County, Oklahoma, United States of America
+2 SOUR @S1@
+1 RESI Relation to Head: DaughterResidence Marital Status: Single
+2 DATE 1920
+2 PLAC Center, Greene, Pennsylvania, USA
+2 SOUR @S18@
+3 PAGE Year: 1920; Census Place: Center, Greene, Pennsylvania; Roll: 
+4 CONC T625_1573; Page: 10B; Enumeration District: 121
+1 DEAT
+2 DATE 15 DEC 1986
+2 PLAC Tulsa, Osage, Oklahoma, USA
+2 SOUR @S14@
+3 PAGE Number: 441-09-6400; Issue State: Oklahoma; Issue Date: Before 1951
+2 SOUR @S1@
+1 RESI
+2 DATE 1932
+2 PLAC Tulsa, Oklahoma, USA
+2 SOUR @S16@
+1 RESI Marital Status: MarriedRelation to Head: Wife
+2 DATE 1930
+2 PLAC Tulsa, Oklahoma, USA
+2 SOUR @S16@
+2 SOUR @S17@
+3 PAGE Year: 1930; Census Place: Wekiwa, Tulsa, Oklahoma; Roll: 1933; Page: 
+4 CONC 8B; Enumeration District: 0179; FHL microfilm: 2341667
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 1910
+2 PLAC Washington Ward 2, Washington, Pennsylvania, USA
+2 SOUR @S15@
+3 PAGE Year: 1910; Census Place: Washington Ward 2, Washington, Pennsylvania; 
+4 CONC Roll: T624_1427; Page: 2A; Enumeration District: 0238; FHL microfilm: 
+4 CONC 1375443
+1 RESI
+2 DATE 1935
+2 PLAC Vinita, Craig, Oklahoma
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 3B; Enumeration District: 79-22
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 01 APR 1940
+2 PLAC Tulsa, Tulsa, Oklahoma, USA
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 3B; Enumeration District: 79-22
+1 OBJE @M179@
+1 OBJE @M180@
+1 OBJE @M181@
+1 FAMS @F91@
+0 @I761@ INDI
+1 NAME "randyleclaire_1" Raymond Randall /LeClaire/ PBoyd-47cM
+2 SOUR @S12@
+1 SEX M
+1 BIRT
+2 DATE 08 MAR 1971
+2 PLAC Springfield, Greene, Missouri, USA
+2 SOUR @S12@
+1 RESI
+2 DATE 1991
+2 PLAC Tahlequah, OK
+2 SOUR @S12@
+1 NOTE @N20@
+1 OBJE @M350@
+1 FAMC @F149@
+0 @I762@ INDI
+1 NAME Raymond Robert /LeClaire/
+1 SEX M
+1 BIRT
+2 DATE 1947
+1 FAMS @F149@
+0 @I733@ INDI
+1 NAME Flora Darling /Lortz/
+1 SEX F
+1 BIRT
+2 DATE 1939
+2 PLAC Tulsa, Oklahoma, USA
+1 DEAT
+2 DATE 2011
+2 PLAC Haskell, Muskogee, Oklahoma, USA
+1 FAMS @F141@
+0 @I670@ INDI
+1 NAME Alta /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 20 JAN 1918
+2 PLAC Arkansas
+1 DEAT
+2 DATE 23 APR 2008
+2 PLAC Charleston, Franklin, Arkansas
+1 FAMC @F129@
+0 @I666@ INDI
+1 NAME Ann Maureen /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 13 DEC 1939
+2 PLAC California
+1 DEAT
+2 DATE 20 SEP 2017
+2 PLAC Wisconsin, USA
+1 FAMC @F129@
+0 @I463@ INDI
+1 NAME Appa Cora--who's her mother?? /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 13 NOV 1904
+2 PLAC Franklin County, Arkansas, United States
+1 DEAT
+2 DATE 15 NOV 1976
+2 PLAC Van Buren, Crawford, Arkansas, United States
+1 FAMC @F95@
+0 @I671@ INDI
+1 NAME Camma /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE ABT 1916
+2 PLAC Arkansas, United States
+1 DEAT
+2 DATE ABT 2011
+2 PLAC Arkansas, United States
+1 FAMC @F129@
+0 @I669@ INDI
+1 NAME Charles Edward /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 27 FEB 1926
+2 PLAC Arkansas
+1 DEAT
+2 DATE 15 JUN 2007
+2 PLAC Ventura, Ventura, California, USA
+1 FAMC @F129@
+0 @I457@ INDI
+1 NAME Clara B /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 20 JAN 1896
+2 PLAC Arkansas, United States
+1 DEAT
+2 DATE 28 DEC 1978
+2 PLAC Paris, Logan County, Arkansas, USA
+1 FAMC @F95@
+0 @I450@ INDI
+1 NAME Cumon Jack /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 03 JAN 1920
+2 PLAC Arkansas, USA
+1 DEAT
+2 DATE APR 1988
+2 PLAC Bixby, Tulsa, Oklahoma, USA
+1 OBJE @M253@
+1 FAMC @F94@
+0 @I449@ INDI
+1 NAME Elsie Marie /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 01 APR 1925
+2 PLAC Logan Arkansas USA
+1 DEAT
+2 DATE JAN 1989
+2 PLAC Schulter Okmulgee Oklahoma USA
+1 FAMC @F94@
+0 @I462@ INDI
+1 NAME Elsie Marie /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 31 MAR 1901
+2 PLAC Logan, Arkansas, United States
+1 FAMC @F95@
+0 @I658@ INDI
+1 NAME Emma I /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 7 July 1873?
+2 PLAC Ratcliff, Logan, Arkansas, USA
+1 DEAT
+2 DATE 05 JUN 1905
+1 FAMS @F491@
+0 @I451@ INDI
+1 NAME Floyd Clarence /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 13 DEC 1909
+2 PLAC Arkansas, USA
+1 DEAT
+2 DATE 07 SEP 1916
+1 FAMC @F94@
+0 @I461@ INDI
+1 NAME Golda Ella (Goldie) /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 01 JAN 1903
+2 PLAC Logan, Arkansas, United States
+1 DEAT
+2 DATE 01 MAR 1996
+1 FAMC @F95@
+0 @I460@ INDI
+1 NAME Guy /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 30 OCT 1893
+2 PLAC Logan, Arkansas, United States
+1 DEAT
+2 DATE 19 MAR 1989
+2 PLAC Charleston, Franklin, Arkansas, United States
+1 FAMS @F129@
+1 FAMC @F95@
+0 @I448@ INDI
+1 NAME Isaac Quillon (Ike) /Metcalf/
+2 SOUR @S1@
+2 SOUR @S19@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 08 OCT 1857
+2 PLAC Arkansas, United States
+2 SOUR @S1@
+1 BURI
+2 PLAC Branch, Franklin County, Arkansas, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 22 NOV 1909
+2 SOUR @S1@
+1 OBJE @M252@
+1 FAMS @F95@
+0 @I453@ INDI
+1 NAME Jewel May /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 17 SEP 1917
+2 PLAC Arkansas, USA
+1 DEAT
+2 DATE 01 FEB 1997
+1 FAMC @F94@
+0 @I456@ INDI
+1 NAME Lewis Wren (Doc) /Metcalf/ 1c2x
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 28 AUG 1898
+2 PLAC Logan County, Arkansas, United States
+1 DEAT
+2 DATE 10 AUG 1996
+2 PLAC Bixby, Tulsa, Oklahoma, United States
+1 FAMC @F95@
+0 @I334@ INDI
+1 NAME Lloyd Ivan /Metcalf/ spec
+2 SOUR @S1@
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 8A; Enumeration District: 79-6A
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 30 JUN 1912
+2 PLAC Arkansas, USA
+2 SOUR @S1@
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 8A; Enumeration District: 79-6A
+1 BURI
+2 PLAC Bixby, Tulsa County, Oklahoma, United States of America
+2 SOUR @S1@
+1 RESI
+2 DATE 1935
+2 PLAC Tulsa, Tulsa, Oklahoma
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 8A; Enumeration District: 79-6A
+1 DEAT
+2 DATE 13 JUL 1968
+2 PLAC Bixby, Tulsa, Oklahoma, USA
+2 SOUR @S1@
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 01 APR 1940
+2 PLAC Tulsa, Tulsa, Oklahoma, USA
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 8A; Enumeration District: 79-6A
+1 OBJE @M186@
+1 FAMS @F91@
+1 FAMS @F92@
+1 FAMC @F94@
+0 @I452@ INDI
+1 NAME Lois Lucille /Metcalf/
+2 SOUR @S1@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 06 AUG 1915
+2 PLAC Logan Arkansas USA
+2 SOUR @S1@
+1 BURI
+2 PLAC Bixby, Tulsa County, Oklahoma, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 12 MAY 2001
+2 PLAC Westville, Adair, Oklahoma, USA
+2 SOUR @S1@
+1 FAMS @F140@
+1 FAMC @F94@
+0 @I655@ INDI
+1 NAME Malinda Riller /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 25 OCT 1855
+2 PLAC Ratcliff, Logan, Arkansas, USA
+1 DEAT
+2 DATE 01 APR 1904
+2 PLAC Branch, Franklin County, Arkansas, USA
+1 NOTE @N19@
+1 FAMS @F492@
+0 @I667@ INDI
+1 NAME Michael /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 13 DEC 1939
+2 PLAC Ventura, California
+1 DEAT
+2 DATE 26 AUG 2006
+2 PLAC Oxnard, Ventura, California, USA
+1 FAMC @F129@
+0 @I458@ INDI
+1 NAME Nancy Ann /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 20 DEC 1891
+2 PLAC Logan, Arkansas, United States
+1 DEAT
+2 DATE 03 DEC 1982
+2 PLAC Tulsa, Oklahoma, United States
+1 FAMC @F95@
+0 @I663@ INDI
+1 NAME private /Metcalf/
+1 SEX F
+1 FAMS @F139@
+1 FAMC @F129@
+0 @I438@ INDI
+1 NAME Roger P /Metcalf/
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 8A; Enumeration District: 79-6A
+1 SEX M
+1 BIRT
+2 DATE ABT 1938
+2 PLAC Oklahoma
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 8A; Enumeration District: 79-6A
+1 RESI Marital Status: SingleRelation to Head of House: Son
+2 DATE 01 APR 1940
+2 PLAC Tulsa, Tulsa, Oklahoma, USA
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Tulsa, Tulsa, Oklahoma; Roll: T627_3348; 
+4 CONC Page: 8A; Enumeration District: 79-6A
+1 FAMC @F92@
+0 @I668@ INDI
+1 NAME Rosemary /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 26 JAN 1930
+2 PLAC Arkansas
+1 DEAT
+2 DATE 25 JAN 2006
+2 PLAC La Jolla, San Diego, California, USA
+1 FAMC @F129@
+0 @I665@ INDI
+1 NAME Vance Orel /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 19 JUN 1920
+2 PLAC Branch Frank, Arkansas
+1 DEAT
+2 DATE 19 MAY 1988
+2 PLAC Las Vegas, Clark, Nevada, USA
+1 FAMC @F129@
+0 @I459@ INDI
+1 NAME Victor Roy /Metcalf/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 15 AUG 1889
+2 PLAC Arkansas, United States
+1 DEAT
+2 DATE 26 DEC 1915
+2 PLAC Logan, Arkansas, United States
+1 FAMC @F95@
+0 @I440@ INDI
+1 NAME William Calloway /Metcalf/
+2 SOUR @S1@
+2 SOUR @S19@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 02 MAY 1887
+2 PLAC Logan, Logan, Arkansas, United States
+2 SOUR @S1@
+2 SOUR @S19@
+1 BURI
+2 PLAC Bixby, Tulsa County, Oklahoma, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 04 APR 1965
+2 PLAC Bixby, Tulsa, Oklahoma, USA
+2 SOUR @S1@
+1 OBJE @M249@
+1 FAMS @F94@
+1 FAMC @F95@
+0 @I514@ INDI
+1 NAME Susanna /Pilley/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 1809
+2 PLAC North Carolina, USA
+1 DEAT
+2 DATE 1872
+2 PLAC Greenville, Clark County, Arkansas, USA
+1 NAME Susanna (Susan) /Pilley Cole/
+1 OBJE @M298@
+1 FAMS @F143@
+0 @I756@ INDI
+1 NAME Augustus Kemp /Pugh/
+2 SOUR @S11@
+1 SEX M
+1 BIRT
+2 DATE ABT 1888
+2 SOUR @S11@
+1 FAMS @F147@
+0 @I755@ INDI
+1 NAME Evelyn Lavonne /Pugh/
+2 SOUR @S14@
+3 PAGE Number: 561-34-9848; Issue State: California; Issue Date: Before 1951
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 26 JAN 1920
+2 SOUR @S14@
+3 PAGE Number: 561-34-9848; Issue State: California; Issue Date: Before 1951
+1 DEAT
+2 DATE 29 MAR 2003
+2 PLAC Wagoner, Wagoner, Oklahoma, USA
+2 SOUR @S14@
+3 PAGE Number: 561-34-9848; Issue State: California; Issue Date: Before 1951
+1 OBJE @M348@
+1 FAMS @F148@
+1 FAMC @F147@
+0 @I347@ INDI
+1 NAME /unknown/
+1 SEX F
+1 FAMS @F72@
+0 @I753@ INDI
+1 NAME Cynthia Ann /Walker/
+2 SOUR @S15@
+3 PAGE Year: 1910; Census Place: Cowlington, Le Flore, Oklahoma; Roll: 
+4 CONC T624_1258; Page: 18A; Enumeration District: 0149; FHL microfilm: 
+4 CONC 1375271
+1 SEX F
+1 BIRT
+2 DATE 1865
+2 PLAC AR
+2 SOUR @S15@
+3 PAGE Year: 1910; Census Place: Cowlington, Le Flore, Oklahoma; Roll: 
+4 CONC T624_1258; Page: 18A; Enumeration District: 0149; FHL microfilm: 
+4 CONC 1375271
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 1910
+2 PLAC Cowlington, Le Flore, Oklahoma, USA
+2 SOUR @S15@
+3 PAGE Year: 1910; Census Place: Cowlington, Le Flore, Oklahoma; Roll: 
+4 CONC T624_1258; Page: 18A; Enumeration District: 0149; FHL microfilm: 
+4 CONC 1375271
+1 DEAT
+2 DATE 1931
+2 PLAC OK
+1 FAMS @F146@
+0 @I1942@ INDI
+1 NAME Maggie Bell /Wren/
+2 SOUR @S1@
+1 SEX U
+1 BIRT
+2 DATE 25 JUN 1880
+2 SOUR @S1@
+1 BURI
+2 PLAC McAlester, Pittsburg County, Oklahoma, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 11 AUG 1965
+2 SOUR @S1@
+1 FAMS @F493@
+0 @F92@ FAM
+1 HUSB @I334@
+1 WIFE @I441@
+1 CHIL @I438@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 21 APR 1935
+2 PLAC Bixby, Tulsa, Oklahoma, USA
+0 @F129@ FAM
+1 HUSB @I460@
+1 WIFE @I664@
+1 CHIL @I663@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I671@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I670@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I665@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I669@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I668@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I666@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I667@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 14 JUL 1912
+2 PLAC Logan, Logan, Arkansas, United States
+0 @F72@ FAM
+1 HUSB @I333@
+1 WIFE @I347@
+0 @F73@ FAM
+1 HUSB @I333@
+1 WIFE @I348@
+1 MARR
+2 DATE 03 OCT 1958
+2 PLAC Tulsa, Tulsa, Oklahoma, USA
+2 SOUR @S11@
+0 @F145@ FAM
+1 HUSB @I736@
+1 WIFE @I749@
+1 CHIL @I750@
+2 _FREL Natural
+2 _MREL Natural
+0 @F104@ FAM
+1 HUSB @I467@
+1 WIFE @I466@
+1 CHIL @I512@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I513@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I505@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I506@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I504@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I510@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I509@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I447@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I507@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I511@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I508@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 13 APR 1847
+2 PLAC Sainte Genevieve, Missouri, USA
+2 SOUR @S75@
+0 @F139@ FAM
+1 HUSB @I731@
+1 WIFE @I663@
+1 CHIL @I730@
+2 _FREL Natural
+2 _MREL Natural
+0 @F95@ FAM
+1 HUSB @I448@
+1 WIFE @I447@
+1 CHIL @I440@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I459@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I458@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I460@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I457@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I456@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I462@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I461@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I463@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 22 JAN 1885
+2 PLAC Logan County, Arkansas, United States
+0 @F146@ FAM
+1 HUSB @I750@
+1 WIFE @I753@
+1 CHIL @I754@
+2 _FREL Natural
+2 _MREL Natural
+0 @F143@ FAM
+1 HUSB @I515@
+1 WIFE @I514@
+1 CHIL @I736@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I467@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1823
+2 PLAC N, Richmond, Georgia, USA
+0 @F147@ FAM
+1 HUSB @I756@
+1 WIFE @I754@
+1 CHIL @I755@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 08 FEB 1916
+2 PLAC Le Flore, Oklahoma, USA
+2 SOUR @S11@
+0 @F491@ FAM
+1 HUSB @I513@
+1 WIFE @I658@
+0 @F492@ FAM
+1 HUSB @I513@
+1 WIFE @I655@
+0 @F493@ FAM
+1 HUSB @I513@
+1 WIFE @I1942@
+1 CHIL @I1943@
+2 _FREL Natural
+2 _MREL Natural
+0 @F149@ FAM
+1 HUSB @I762@
+1 WIFE @I757@
+1 CHIL @I761@
+2 _FREL Natural
+2 _MREL Natural
+0 @F148@ FAM
+1 HUSB @I758@
+1 WIFE @I755@
+1 CHIL @I757@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 15 MAY 1945
+0 @F142@ FAM
+1 HUSB @I732@
+1 WIFE @I735@
+1 CHIL @I734@
+2 _FREL Natural
+2 _MREL Natural
+0 @F94@ FAM
+1 HUSB @I440@
+1 WIFE @I439@
+1 CHIL @I451@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I334@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I452@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I453@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I450@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I449@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 25 DEC 1907
+2 PLAC Logan, Arkansas, USA
+0 @F141@ FAM
+1 HUSB @I597@
+1 WIFE @I733@
+1 CHIL @I732@
+2 _FREL Natural
+2 _MREL Natural
+0 @F140@ FAM
+1 HUSB @I596@
+1 WIFE @I452@
+1 CHIL @I597@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 29 JAN 1935
+2 PLAC Bixby, Tulsa, Oklahoma, United States
+0 @F91@ FAM
+1 HUSB @I334@
+1 WIFE @I331@
+1 CHIL @I333@
+2 _FREL Natural
+2 _MREL Natural
+0 @N9@ NOTE
+1 CONC I think this is p_boyd.
+1 CONT ad_perry's tree shows a male sibling of Nadine's as only a half-sib, 
+1 CONC sharing a mother (Nellie). This explains both the cM he shares with 
+1 CONC ad_perry (1,011 cM) which = 1c OR 1/2 uncle. Which this would be. But 
+1 CONC also the fact p_boyd shares X with ad _perry, which means his mother 
+1 CONC must be a sister of ad's mother.
+1 CONT p_boyd has roughly the same relationship with ad's siblings, and no 
+1 CONC relationship with C. Perry.
+1 CONT
+0 @N12@ NOTE
+1 CONC Metcalf/Sexton Family Tree used as source 
+1 CONC https://www.ancestry.com/family-tree/pt/PersonMatch.aspx?tid=115753291
+1 CONC &pid=290150369146&_phsrc=fJn594&_phstart=default&usePUBJs=true
+1 CONT There's more sibling info-- only parent info entered
+1 CONT
+0 @N19@ NOTE
+1 CONC Metcalf-Sexton Family tree (jchappell72) 
+1 CONC https://www.ancestry.com/family-tree/person/tree/31174242/person/12829
+1 CONC 595768/facts
+1 CONT
+0 @N20@ NOTE
+1 CONC shared match: p_boyd and Jordan Stoddard (both matches of JNC)
+1 CONT
+0 @S1@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Find A Grave Index, 1600s-Current
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S2@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1940 United States Federal Census
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S11@ SOUR
+1 AUTH Ancestry.com
+1 TITL Oklahoma, County Marriages, 1890-1995
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S12@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S. Public Records Index, 1950-1993, Volume 1
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S13@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S. Public Records Index, 1950-1993, Volume 2
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S14@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Social Security Death Index, 1935-2014
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R1@
+0 @S15@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1910 United States Federal Census
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R1@
+0 @S16@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S. City Directories, 1822-1995
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S17@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1930 United States Federal Census
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R1@
+0 @S18@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1920 United States Federal Census
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S19@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Social Security Applications and Claims Index, 1936-2007
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S75@ SOUR
+1 AUTH Hunting For Bears, comp.
+1 TITL Missouri Marriages, 1766-1983
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R1@
+0 @R1@ REPO
+1 NAME Ancestry.com
+1 ADDR
+1 EMAIL
+1 PHON
+0 TRLR

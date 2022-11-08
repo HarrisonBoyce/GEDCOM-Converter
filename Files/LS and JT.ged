@@ -1,0 +1,1318 @@
+0 HEAD
+1 SOUR FTM
+2 VERS Family Tree Maker (21.0.0.388)
+2 NAME Family Tree Maker for Windows
+2 CORP Ancestry.com
+3 ADDR 360 W 4800 N
+4 CONT Provo, UT 84604
+3 PHON (801) 705-7000
+1 DEST GED55
+1 DATE 17 FEB 2018
+1 CHAR ANSI
+1 FILE C:\Users\Colleen\Desktop\Chandler DNA\Gedcoms\February 17, 2018\Lydia Sparks and Jesse Tomlin_2018-02-17.ged
+1 SUBM @SUBM@
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @SUBM@ SUBM
+0 @I1@ INDI
+1 NAME Doe /Chandler/ III
+1 SEX U
+1 BIRT
+2 DATE ABT 1935
+2 PLAC estim based on age at death
+1 DEAT
+2 DATE 23 JUL 2002
+2 PLAC Eastlake, Cayuga Co, OH
+1 OBJE @M1@
+1 FAMC @F2515@
+0 @I17@ INDI
+1 NAME Tether-5 /.Adkins-Ries/
+1 SEX M
+1 FAMS @F2514@
+1 FAMC @F864@
+0 @I2@ INDI
+1 NAME new tether /2/
+1 SEX F
+1 FAMS @F2515@
+0 @I3581@ INDI
+1 NAME Allen Thomas /Adkins/
+2 SOUR @S1@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE FEB 1853
+2 PLAC Georgia, United States of America
+2 SOUR @S1@
+1 BURI
+2 PLAC Sylvan Grove, Dale County, Alabama, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 16 JAN 1924
+2 PLAC Ozark, Dale County, Alabama, United States of America
+2 SOUR @S1@
+1 OBJE @M1027@
+1 OBJE @M1028@
+1 FAMS @F861@
+0 @I3574@ INDI
+1 NAME Benjamie Asberry /Adkins/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 02 MAY 1886
+2 PLAC Alabama, United States
+1 DEAT
+2 DATE 26 JUN 1951
+2 PLAC Dale, Alabama, United States
+1 FAMC @F861@
+0 @I3580@ INDI
+1 NAME Benny /Adkins/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE MAR 1893
+2 PLAC Alabama
+1 FAMC @F861@
+0 @I3576@ INDI
+1 NAME Byran Marlin /Adkins/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 23 MAR 1891
+2 PLAC Alabama
+1 DEAT
+2 DATE 28 FEB 1972
+2 PLAC Houston County, Alabama, USA
+1 FAMC @F861@
+0 @I3577@ INDI
+1 NAME Geames Levy /Adkins/
+2 SOUR @S1@
+2 SOUR @S115@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 14 FEB 1888
+2 PLAC Rocky Head, Dale County, Alabama, United States of America
+2 SOUR @S1@
+2 SOUR @S115@
+1 BURI
+2 PLAC New Brockton, Coffee County, Alabama, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 13 MAR 1967
+2 PLAC New Brockton, Coffee County, Alabama, United States of America
+2 SOUR @S1@
+2 SOUR @S115@
+1 DEAT
+2 DATE 13 MAR 1967
+2 PLAC New Brockton, Coffee, Alabama, United States of America
+1 OBJE @M1022@
+1 OBJE @M1023@
+1 OBJE @M1024@
+1 OBJE @M1025@
+1 OBJE @M1026@
+1 FAMS @F862@
+1 FAMC @F861@
+0 @I2097@ INDI
+1 NAME James Woodrow /Adkins/ DNAtester-22cM
+1 SEX M
+1 OBJE @M722@
+1 FAMS @F864@
+1 FAMC @F863@
+0 @I3575@ INDI
+1 NAME Jeffery Lee /Adkins/
+2 SOUR @S1@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 12 MAR 1882
+2 PLAC Alabama
+2 SOUR @S1@
+1 BURI
+2 PLAC Grimes, Dale County, Alabama, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 03 JAN 1955
+2 PLAC Dothan, Houston County, Alabama, United States of America
+2 SOUR @S1@
+1 FAMC @F861@
+0 @I3578@ INDI
+1 NAME Mary Lou Ada /Adkins/
+2 SOUR @S1@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 25 NOV 1896
+2 PLAC Alabama
+2 SOUR @S1@
+1 BURI
+2 PLAC Sylvan Grove, Dale County, Alabama, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 20 JUN 1973
+2 PLAC Columbus, Muscogee, Georgia, United States
+2 SOUR @S1@
+1 FAMC @F861@
+0 @I3605@ INDI
+1 NAME Ruby Lee /Adkins/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE ABT 1919
+2 PLAC Alabama
+1 FAMC @F862@
+0 @I3606@ INDI
+1 NAME Verbie Gaynell /Adkins/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 07 NOV 1921
+2 PLAC Alabama
+1 DEAT
+2 DATE 16 JUL 2011
+2 PLAC Enterprise, Coffee, Alabama, USA
+1 FAMC @F862@
+0 @I3579@ INDI
+1 NAME William Thomas /Adkins/
+2 SOUR @S1@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 06 OCT 1876
+2 PLAC Dale County, Alabama, United States of America
+2 SOUR @S1@
+1 BURI
+2 PLAC Grimes, Dale County, Alabama, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 18 NOV 1954
+2 PLAC Dothan, Houston County, Alabama, United States of America
+2 SOUR @S1@
+1 FAMC @F861@
+0 @I3607@ INDI
+1 NAME Woodrow /Adkins/
+2 SOUR @S1@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 14 JUL 1914
+2 PLAC Coffee County, Alabama, USA
+2 SOUR @S1@
+1 BURI
+2 PLAC Clanton, Chilton County, Alabama, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 20 JAN 2000
+2 PLAC Clanton, Chilton, Alabama, USA
+2 SOUR @S1@
+1 OBJE @M1033@
+1 OBJE @M1034@
+1 FAMS @F863@
+1 FAMC @F862@
+0 @I2081@ INDI
+1 NAME Della Lee /Bennett/
+2 SOUR @S30@
+3 PAGE Texas Department of State Health Services; Austin Texas, USA; Texas 
+4 CONC Death Certificates, 1903–1982
+2 SOUR @S1@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 20 MAY 1886
+2 PLAC Cooper, Delta, Texas, USA
+2 SOUR @S30@
+3 PAGE Texas Department of State Health Services; Austin Texas, USA; Texas 
+4 CONC Death Certificates, 1903–1982
+2 SOUR @S1@
+1 BURI
+2 PLAC Canton, Van Zandt County, Texas, United States of America
+2 SOUR @S1@
+1 RESI
+2 PLAC Canton, Vanzant, Texas, USA
+2 SOUR @S30@
+3 PAGE Texas Department of State Health Services; Austin Texas, USA; Texas 
+4 CONC Death Certificates, 1903–1982
+1 DEAT
+2 DATE 14 AUG 1948
+2 PLAC Wills Point, Van Zandt, Texas, USA
+2 SOUR @S30@
+3 PAGE Texas Department of State Health Services; Austin Texas, USA; Texas 
+4 CONC Death Certificates, 1903–1982
+2 SOUR @S1@
+1 OBJE @M705@
+1 OBJE @M706@
+1 FAMS @F525@
+0 @I3566@ INDI
+1 NAME Selenia Frances /Crenshaw/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE DEC 1834
+2 PLAC Troup, Georgia, United States
+1 DEAT
+2 DATE AFT 1920
+2 PLAC ,Dale, Alabama, United States
+1 OBJE @M1016@
+1 OBJE @M1017@
+1 FAMS @F859@
+0 @I2083@ INDI
+1 NAME Jo Marie /Durell/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 14 APR 1918
+2 PLAC Canton, Texas
+1 DEAT
+2 DATE 04 JAN 1996
+2 PLAC Tyler, Smith County, Texas
+1 FAMS @F524@
+0 @I2079@ INDI
+1 NAME Joe Marie /Durrell/
+1 SEX F
+1 BIRT
+2 DATE 1918
+1 OBJE @M703@
+1 FAMS @F523@
+0 @I8@ INDI
+1 NAME unknown maternal /grandfather/
+1 SEX M
+1 BIRT
+2 DATE ABT 1875
+2 PLAC estim based on JNC birth
+1 FAMS @F3@
+1 FAMC @F2514@
+0 @I9@ INDI
+1 NAME unknown maternal /grandmother/
+1 SEX F
+1 BIRT
+2 DATE ABT 1880
+2 PLAC based on JNC est birth
+1 FAMS @F3@
+1 FAMC @F2@
+0 @I14@ INDI
+1 NAME Polly Ann /James/ DNAtester-18cM
+2 SOUR @S17@
+3 PAGE Year: 1930; Census Place: Williamson, Mingo, West Virginia; Roll: 
+4 CONC 2547; Page: 7A; Enumeration District: 0023; FHL microfilm: 2342281
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Chicago, Cook, Illinois; Roll: T627_932; 
+4 CONC Page: 19B; Enumeration District: 103-356
+1 SEX F
+1 BIRT
+2 DATE 07 MAR 1926
+2 PLAC Mingo County, West Virginia, USA
+2 SOUR @S17@
+3 PAGE Year: 1930; Census Place: Williamson, Mingo, West Virginia; Roll: 
+4 CONC 2547; Page: 7A; Enumeration District: 0023; FHL microfilm: 2342281
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Chicago, Cook, Illinois; Roll: T627_932; 
+4 CONC Page: 19B; Enumeration District: 103-356
+1 RESI
+2 DATE 1935
+2 PLAC Williamson, Mingo, West Virginia
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Chicago, Cook, Illinois; Roll: T627_932; 
+4 CONC Page: 19B; Enumeration District: 103-356
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 01 APR 1940
+2 PLAC Chicago, Cook, Illinois, USA
+2 SOUR @S2@
+3 PAGE Year: 1940; Census Place: Chicago, Cook, Illinois; Roll: T627_932; 
+4 CONC Page: 19B; Enumeration District: 103-356
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1930
+2 PLAC Williamson, Mingo, West Virginia, USA
+2 SOUR @S17@
+3 PAGE Year: 1930; Census Place: Williamson, Mingo, West Virginia; Roll: 
+4 CONC 2547; Page: 7A; Enumeration District: 0023; FHL microfilm: 2342281
+1 OBJE @M5@
+1 FAMS @F988@
+0 @I10@ INDI
+1 NAME Tether-7 /James-Pittmon/
+1 SEX M
+1 FAMS @F2@
+1 FAMC @F988@
+0 @I2095@ INDI
+1 NAME Bradley /Kirk/
+1 SEX M
+1 OBJE @M720@
+1 FAMS @F526@
+0 @I11@ INDI
+1 NAME Tether-8 /Morton-Case/
+1 SEX F
+1 FAMS @F2@
+0 @I7@ INDI
+1 NAME unknown /mother/
+1 SEX F
+1 FAMS @F1@
+1 FAMC @F3@
+0 @I3@ INDI
+1 NAME new tether /Nicholas/
+1 SEX M
+1 FAMS @F2515@
+1 FAMC @F1@
+0 @I4@ INDI
+1 NAME unknown father /Nicholas/
+1 SEX M
+1 BIRT
+2 DATE ABT 1905
+2 PLAC based on son's age
+1 FAMS @F1@
+0 @I2875@ INDI
+1 NAME Marthena /Parmer/
+1 SEX F
+1 BIRT
+2 DATE 1822
+2 PLAC GA
+1 OBJE @M907@
+1 OBJE @M908@
+1 FAMS @F740@
+0 @I3583@ INDI
+1 NAME Benjamin F /Perry/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE ABT 1909
+2 PLAC Alabama
+1 FAMC @F1667@
+0 @I3592@ INDI
+1 NAME Elie W /Perry/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE FEB 1884
+2 PLAC Alabama
+1 FAMC @F1667@
+0 @I3589@ INDI
+1 NAME Essie E /Perry/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE JAN 1892
+2 PLAC Alabama
+1 FAMC @F1667@
+0 @I3585@ INDI
+1 NAME Flora M /Perry/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE ABT 1905
+2 PLAC Alabama
+1 FAMC @F1667@
+0 @I3582@ INDI
+1 NAME George Washington /Perry/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 08 JUL 1861
+2 PLAC Florida
+1 DEAT
+2 DATE 03 SEP 1935
+2 PLAC Pinckard, Dale, Alabama, United States
+1 FAMS @F1667@
+0 @I3584@ INDI
+1 NAME Hary F /Perry/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE ABT 1908
+2 PLAC Alabama
+1 FAMC @F1667@
+0 @I3586@ INDI
+1 NAME Josephine /Perry/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE APR 1900
+2 PLAC Alabama
+1 FAMC @F1667@
+0 @I3591@ INDI
+1 NAME Mary A /Perry/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE JAN 1886
+2 PLAC Alabama
+1 FAMC @F1667@
+0 @I3587@ INDI
+1 NAME Mattie E /Perry/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE DEC 1897
+2 PLAC Alabama
+1 FAMC @F1667@
+0 @I3590@ INDI
+1 NAME Roscoe E /Perry/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE OCT 1890
+2 PLAC Alabama
+1 FAMC @F1667@
+0 @I3593@ INDI
+1 NAME Vera Verna /Perry/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 24 MAY 1888
+2 PLAC Wicksburg, Dale Co, Alabama
+1 DEAT
+2 DATE 18 MAY 1963
+2 PLAC Dothan, Houston, Alabama, United States
+1 FAMC @F1667@
+0 @I3588@ INDI
+1 NAME William J /Perry/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE JAN 1895
+2 PLAC Alabama
+1 FAMC @F1667@
+0 @I2085@ INDI
+1 NAME John Wesley /Pittman/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 29 JAN 1845
+2 PLAC Luverne, Covington, Alabama
+1 DEAT
+2 DATE 15 JAN 1929
+2 PLAC Luverne, Covington County, Alabama, USA
+1 NOTE @N44@
+1 OBJE @M713@
+1 OBJE @M714@
+1 FAMS @F739@
+0 @I2092@ INDI
+1 NAME /PITTMON/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 26 JAN 1924
+2 PLAC Wallace, Van Zandt, Tx
+1 DEAT
+2 DATE 26 JAN 1924
+1 FAMC @F525@
+0 @I2091@ INDI
+1 NAME Cecil Audrey /PITTMON/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 01 SEP 1911
+2 PLAC Wallace, Van Zandt, Tx
+1 DEAT
+2 DATE 29 JUN 1960
+2 PLAC Ft. Worth, Tarrant, Texas
+1 FAMC @F525@
+0 @I2090@ INDI
+1 NAME Eldon Juan /Pittmon/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 10 NOV 1925
+2 PLAC Wallace, Van Zandt, Tx
+1 DEAT
+2 DATE 04 APR 1963
+2 PLAC Wichita Falls, Wichita, Texas, USA
+1 FAMC @F525@
+0 @I2088@ INDI
+1 NAME Eva Mae /Pittmon/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 26 APR 1914
+2 PLAC Wallace, Van Zandt, Tx
+1 DEAT
+2 DATE 23 JUN 1992
+2 PLAC Tyler, Smith, Texas
+1 FAMC @F525@
+0 @I2087@ INDI
+1 NAME Francis Rayborn /PITTMON/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 14 MAY 1921
+2 PLAC Wallace, Van Zandt, TX USA
+1 DEAT
+2 DATE 27 FEB 2009
+2 PLAC Tyler, Smith, Texas, USA
+1 FAMC @F525@
+0 @I15@ INDI
+1 NAME Lloyd Bennett /Pittmon/ DNAtester-18cM
+2 SOUR @S14@
+3 PAGE Issue State: Texas; Issue Date: Before 1951
+2 SOUR @S1@
+2 SOUR @S158@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 01 SEP 1916
+2 PLAC Canton, Van Zandt County, Texas, United States of America
+2 SOUR @S14@
+3 PAGE Issue State: Texas; Issue Date: Before 1951
+2 SOUR @S1@
+2 SOUR @S158@
+1 BURI
+2 PLAC Canton, Van Zandt County, Texas, United States of America
+2 SOUR @S1@
+1 _MILT
+2 DATE 17 JAN 1941
+2 PLAC Dallas, Texas
+2 SOUR @S158@
+1 DEAT
+2 DATE 07 JUL 2011
+2 PLAC Clovis, Fresno, California
+2 SOUR @S14@
+3 PAGE Issue State: Texas; Issue Date: Before 1951
+2 SOUR @S1@
+1 OBJE @M6@
+1 OBJE @M7@
+1 FAMS @F523@
+1 FAMS @F524@
+1 FAMS @F988@
+1 FAMC @F525@
+0 @I2086@ INDI
+1 NAME Lottie Bell /Pittmon/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 09 JUL 1907
+2 PLAC Paola Garvin, Oklahoma
+1 DEAT
+2 DATE 08 MAY 2003
+2 PLAC Canton, Van Zandt, Texas
+1 FAMC @F525@
+0 @I2080@ INDI
+1 NAME Shirley Ann /Pittmon/ DNAtester
+2 SOUR @S107@
+3 PAGE Birthdate: 30 Aug 1956; Birth County: Kern
+1 SEX F
+1 BIRT
+2 DATE 30 AUG 1956
+2 PLAC Ridgecrest, Kern, California, USA
+2 SOUR @S107@
+3 PAGE Birthdate: 30 Aug 1956; Birth County: Kern
+1 OBJE @M704@
+1 FAMS @F526@
+1 FAMC @F523@
+0 @I2089@ INDI
+1 NAME Sibyl Ann /Pittmon/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 26 NOV 1918
+2 PLAC Wallace, Van Zandt, TX USA
+1 DEAT
+2 DATE 14 JUL 1999
+1 FAMC @F525@
+0 @I2082@ INDI
+1 NAME Walter Lee /Pittmon/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 1877
+2 PLAC Luverne, Crenshaw, Alabama, USA
+1 DEAT
+2 DATE 19 JAN 1953
+2 PLAC Canto, Van Zandt, Texas
+1 OBJE @M707@
+1 OBJE @M708@
+1 OBJE @M709@
+1 OBJE @M710@
+1 FAMS @F525@
+1 FAMC @F739@
+0 @I2096@ INDI
+1 NAME Joseph Watson /Ries/ DNAtester-21cM
+1 SEX M
+1 BIRT
+2 DATE ABT 1960
+2 PLAC per fa birth
+1 OBJE @M721@
+1 FAMS @F864@
+0 @I3608@ INDI
+1 NAME Julia Mandy /Simmons/
+2 SOUR @S1@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 28 OCT 1888
+2 PLAC Coffee County, Alabama, United States of America
+2 SOUR @S1@
+1 BURI
+2 PLAC New Brockton, Coffee County, Alabama, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 01 NOV 1986
+2 PLAC New Brockton, Coffee, Alabama, United States of America
+2 SOUR @S1@
+1 OBJE @M1035@
+1 OBJE @M1036@
+1 FAMS @F862@
+0 @I2877@ INDI
+1 NAME Lydia P /Sparks/ mrca_pittmon-adkins
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 1796
+2 PLAC Wilkes, North Carolina, United States
+1 DEAT
+2 DATE AFT 1870
+2 PLAC Talladega, Talladega, Alabama, United States
+1 OBJE @M911@
+1 OBJE @M912@
+1 FAMS @F744@
+0 @I16@ INDI
+1 NAME Tether-6 /Stoddard-Adkins/
+1 SEX F
+1 FAMS @F2514@
+0 @I2899@ INDI
+1 NAME George Washington /Tomlin/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 22 MAR 1822
+2 PLAC Walton, Georgia, United States
+1 DEAT
+2 DATE 28 JUL 1874
+2 PLAC Columbus, Muscogee, Georgia, USA
+1 FAMC @F744@
+0 @I3568@ INDI
+1 NAME Jacob Jefferson /Tomlin/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE MAR 1861
+2 PLAC Newton, Dale, Alabama, United States
+1 DEAT
+2 DATE 16 JUL 1939
+2 PLAC Ozark, Dale, Alabama, United States
+1 FAMC @F859@
+0 @I2896@ INDI
+1 NAME Jacob S /Tomlin/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 1826
+2 PLAC Walton Georgia
+1 DEAT
+2 DATE 1865
+2 PLAC Nashville Tennessee, United States
+1 DEAT
+2 DATE 23 OCT 1923
+2 PLAC Ariton, Dale, Alabama, United States
+1 OBJE @M930@
+1 OBJE @M931@
+1 FAMS @F859@
+1 FAMC @F744@
+0 @I2895@ INDI
+1 NAME Jesse A. B. /Tomlin/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 1840
+2 PLAC Russell, Alabama, United States
+1 DEAT
+2 DATE 11 DEC 1862
+2 PLAC Mississippi, United States
+1 FAMC @F744@
+0 @I2878@ INDI
+1 NAME Jesse /Tomlin/ mrca_pittmon-adkins
+2 SOUR @S114@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 1790
+2 PLAC Edgefield Dist., S. C.
+1 DEAT
+2 DATE 1879
+2 PLAC Dale, Alabama, United States
+1 BIRT
+2 DATE 1790
+2 PLAC North Carolina, United States
+1 BIRT
+2 DATE 1798
+2 PLAC Edgefield Dist., S. C.
+1 OBJE @M913@
+1 OBJE @M914@
+1 FAMS @F744@
+0 @I2898@ INDI
+1 NAME John L. G. /Tomlin/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 1832
+2 PLAC Walton Georgia
+1 DEAT
+2 DATE 26 SEP 1861
+2 PLAC Virginia, United States
+1 FAMC @F744@
+0 @I3567@ INDI
+1 NAME Martha Francis /Tomlin/
+2 SOUR @S1@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 09 OCT 1864
+2 PLAC Dale, Alabama, United States
+2 SOUR @S1@
+1 BURI
+2 PLAC Wicksburg, Houston County, Alabama, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 10 OCT 1936
+2 PLAC Pinckard, Dale, Alabama, United States
+2 SOUR @S1@
+1 FAMS @F1667@
+1 FAMC @F859@
+0 @I3571@ INDI
+1 NAME Nancy Emmaline "Emma" /Tomlin/
+2 SOUR @S1@
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE MAY 1857
+2 PLAC Dale, Alabama, United States
+2 SOUR @S1@
+1 BURI
+2 PLAC Sylvan Grove, Dale County, Alabama, United States of America
+2 SOUR @S1@
+1 DEAT
+2 DATE 30 JAN 1925
+2 PLAC Ozark, Dale County, Alabama, United States of America
+2 SOUR @S1@
+1 OBJE @M1018@
+1 OBJE @M1019@
+1 FAMS @F861@
+1 FAMC @F859@
+0 @I2901@ INDI
+1 NAME Pleasant /Tomlin/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 1831
+2 PLAC GA
+1 FAMC @F744@
+0 @I2894@ INDI
+1 NAME Sophronia L /Tomlin/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 1834
+2 PLAC Walton, Georgia, United States
+1 DEAT
+2 DATE NOV 1902
+2 PLAC Dale, Alabama, United States
+1 FAMC @F744@
+0 @I3569@ INDI
+1 NAME Thomas Newton /Tomlin/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 20 DEC 1853
+2 PLAC , Dale, Alabama, United States
+1 DEAT
+2 DATE 02 MAY 1928
+2 PLAC , Shelby, Texas, United States
+1 FAMC @F859@
+0 @I2897@ INDI
+1 NAME Tinza A /Tomlin/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 1830
+2 PLAC Walton, Georgia, United States
+1 FAMC @F744@
+0 @I3570@ INDI
+1 NAME William Riley /Tomlin/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 14 FEB 1859
+2 PLAC Dale, Alabama, United States
+1 DEAT
+2 DATE 22 AUG 1935
+2 PLAC Ozark, Dale, Alabama, United States
+1 FAMC @F859@
+0 @I2876@ INDI
+1 NAME William Riley /Tomlin/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE FEB 1823
+2 PLAC Walton County, Georgia, USA
+1 DEAT
+2 DATE 05 NOV 1903
+2 PLAC Rutledge, Crenshaw, Alabama, United States
+1 OBJE @M909@
+1 OBJE @M910@
+1 FAMS @F740@
+1 FAMC @F744@
+0 @I2900@ INDI
+1 NAME Willian Hezikial /Tomlin/
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX M
+1 BIRT
+2 DATE 1825
+2 PLAC Georgia, USA
+1 DEAT
+2 DATE FEB 1865
+2 PLAC Georgia, USA
+1 FAMC @F744@
+0 @I2084@ INDI
+1 NAME Susan Carolina /Tommerline/
+1 SEX F
+1 BIRT
+2 DATE 1841
+1 DEAT
+2 DATE 1932
+1 OBJE @M711@
+1 OBJE @M712@
+1 FAMS @F739@
+1 FAMC @F740@
+0 @I3611@ INDI
+1 NAME Mildred Willodean /Wilson/
+2 SOUR @S1@
+2 SOUR @S118@
+3 PAGE Publication Place: Clanton, Alabama, USA; Web edition: 
+4 CONC http://www.martinfuneralhomeinc.com/sitemaker/sites/martin1/obit.cgi?u
+4 CONC ser=484677Adkins
+2 SOUR Details: Ancestry Family Tree  Citation Text: 
+3 CONC http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=115753291&pid=1
+3 CONC 5
+1 SEX F
+1 BIRT
+2 DATE 06 MAY 1927
+2 PLAC Chilton County, Alabama
+2 SOUR @S1@
+2 SOUR @S118@
+3 PAGE Publication Place: Clanton, Alabama, USA; Web edition: 
+4 CONC http://www.martinfuneralhomeinc.com/sitemaker/sites/martin1/obit.cgi?u
+4 CONC ser=484677Adkins
+1 BURI
+2 PLAC Clanton, Chilton County, Alabama, United States of America
+2 SOUR @S1@
+1 RESI
+2 PLAC Clanton, Alabama, USA
+2 SOUR @S118@
+3 PAGE Publication Place: Clanton, Alabama, USA; Web edition: 
+4 CONC http://www.martinfuneralhomeinc.com/sitemaker/sites/martin1/obit.cgi?u
+4 CONC ser=484677Adkins
+1 DEAT
+2 DATE 05 OCT 2011
+2 PLAC Alabaster, Shelby County, Alabama
+2 SOUR @S1@
+2 SOUR @S118@
+3 PAGE Publication Place: Clanton, Alabama, USA; Web edition: 
+4 CONC http://www.martinfuneralhomeinc.com/sitemaker/sites/martin1/obit.cgi?u
+4 CONC ser=484677Adkins
+1 OBJE @M1041@
+1 OBJE @M1042@
+1 OBJE @M1043@
+1 FAMS @F863@
+0 @F2514@ FAM
+1 HUSB @I17@
+1 WIFE @I16@
+1 CHIL @I8@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2515@ FAM
+1 HUSB @I3@
+1 WIFE @I2@
+1 CHIL @I1@
+2 _FREL Natural
+2 _MREL Natural
+0 @F861@ FAM
+1 HUSB @I3581@
+1 WIFE @I3571@
+1 CHIL @I3579@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3575@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3574@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3577@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3576@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3580@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3578@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1874
+2 PLAC Dale, Alabama, United States
+0 @F862@ FAM
+1 HUSB @I3577@
+1 WIFE @I3608@
+1 CHIL @I3607@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3605@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3606@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1909
+0 @F864@ FAM
+1 HUSB @I2097@
+1 WIFE @I2096@
+1 CHIL @I17@
+2 _FREL Natural
+2 _MREL Natural
+0 @F863@ FAM
+1 HUSB @I3607@
+1 WIFE @I3611@
+1 CHIL @I2097@
+2 _FREL Natural
+2 _MREL Natural
+0 @F525@ FAM
+1 HUSB @I2082@
+1 WIFE @I2081@
+1 CHIL @I2086@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I2091@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I2088@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I15@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I2089@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I2087@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I2092@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I2090@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 10 DEC 1904
+2 PLAC Colfax, Van Zandt, Tx
+0 @F859@ FAM
+1 HUSB @I2896@
+1 WIFE @I3566@
+1 CHIL @I3569@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3571@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3570@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3568@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3567@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 PLAC , Dale, Alabama, United States
+0 @F524@ FAM
+1 HUSB @I15@
+1 WIFE @I2083@
+1 MARR
+2 DATE 11 JAN 1943
+2 PLAC Kingman, AZ, USA
+0 @F523@ FAM
+1 HUSB @I15@
+1 WIFE @I2079@
+1 CHIL @I2080@
+2 _FREL Natural
+2 _MREL Natural
+0 @F3@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 CHIL @I7@
+2 _FREL Natural
+2 _MREL Natural
+0 @F988@ FAM
+1 HUSB @I14@
+1 WIFE @I15@
+1 CHIL @I10@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2@ FAM
+1 HUSB @I10@
+1 WIFE @I11@
+1 CHIL @I9@
+2 _FREL Natural
+2 _MREL Natural
+0 @F526@ FAM
+1 HUSB @I2095@
+1 WIFE @I2080@
+0 @F1@ FAM
+1 HUSB @I4@
+1 WIFE @I7@
+1 CHIL @I3@
+2 _FREL Natural
+2 _MREL Natural
+0 @F740@ FAM
+1 HUSB @I2876@
+1 WIFE @I2875@
+1 CHIL @I2084@
+2 _FREL Natural
+2 _MREL Natural
+0 @F1667@ FAM
+1 HUSB @I3582@
+1 WIFE @I3567@
+1 CHIL @I3592@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3591@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3593@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3590@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3589@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3588@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3587@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3586@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3585@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3584@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3583@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 11 JAN 1883
+2 PLAC Dale, Alabama, United States
+0 @F739@ FAM
+1 HUSB @I2085@
+1 WIFE @I2084@
+1 CHIL @I2082@
+2 _FREL Natural
+2 _MREL Natural
+0 @F744@ FAM
+1 HUSB @I2878@
+1 WIFE @I2877@
+1 CHIL @I2899@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I2876@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I2900@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I2896@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I2897@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I2901@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I2898@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I2894@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I2895@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 23 APR 1823
+2 PLAC Newton Co., GA
+0 @N44@ NOTE
+1 CONC [note on Shirley Kirk's tree fr 5 yrs ago:
+0 @S1@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Find A Grave Index, 1600s-Current
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S2@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1940 United States Federal Census
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S14@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Social Security Death Index, 1935-2014
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R1@
+0 @S17@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1930 United States Federal Census
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R1@
+0 @S30@ SOUR
+1 AUTH Ancestry.com
+1 TITL Texas, Death Certificates, 1903-1982
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R1@
+0 @S107@ SOUR
+1 AUTH Ancestry.com
+1 TITL California Birth Index, 1905-1995
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R3@
+0 @S114@ SOUR
+1 AUTH Hunting For Bears, comp.
+1 TITL Georgia Marriages, 1699-1944
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R3@
+0 @S115@ SOUR
+1 AUTH Ancestry.com
+1 TITL Alabama, Deaths  and Burials Index, 1881-1974
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R3@
+0 @S118@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Cemetery and Funeral Home Collection, 1847-2017
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R3@
+0 @S158@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., World War II Army Enlistment Records, 1938-1946
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R3@
+0 @R1@ REPO
+1 NAME Ancestry.com
+1 ADDR
+1 EMAIL
+1 PHON
+0 @R3@ REPO
+1 NAME Ancestry.com
+1 ADDR http://www.Ancestry.com
+1 EMAIL
+1 PHON
+0 TRLR
